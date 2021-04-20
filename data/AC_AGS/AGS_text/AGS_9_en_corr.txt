@@ -1,0 +1,327 @@
+Reconstruction of the pleistocene glaciers of Mt . 
+Durmitor in Montenegro
+ABSTRACT: Mount Durmitor is situated in the southeastern part of the Dinaric mountain system in Montenegro . 
+Throughout the Pleistocene there were many glaciers there , which descended to adjacent karst plateau . 
+Types of glaciers , their number and direction of moving were mostly affected by geological structure (carbonate basis) and pre-glacial relief (karst and fluvial relief) . 
+During two phases of intensive glaciation , the surface that had been seized by glacial changes also changed . 
+Over 54% of the surface of Durmitor was exposed to the glacial process of the stronger phase and about 36% of the weaker phase . 
+Cirque type of glaciation dominated the third phase . 
+KEY WORDS: geography , glaciation , glacier reconstruction , Pleistocene , Durmitor , Dinaric mountains , Montenegro
+1 Introduction
+Mount Durmitor lies in the western part of the Balkan Peninsula . 
+It is situated in the southeastern part of the Dinaric Alps , in the northern part of the Republic of Montenegro . 
+In the broader sense it belongs to the Drina River drainage basin , while in the narrower sense it represents the watershed between the rivers Tara and Piva . 
+Durmitor represents unique and clear morphological entirety , surrounded by high karst plateau from 1400 to 1600 m a . s . l . 
+The line of the contact plateau of Jezerska površ and mountain mass represents the morphological border of Durmitor . 
+It descends only in the northern part of the mountain up to 1100 m above the sea-level , to the basin of Lake Sušičko . 
+The highest parts of the mountain exceed 2400 m a . s . l . 
+(Bobotov kuk 2522 m a . s . l . ) and they are from 900 to 1100 m higher than adjacent plateaus . 
+The total area of Mount Durmitor is 123 km2 (Djurović 1996 , 21) . 
+Lithological structure of Durmitor is rathher simple (Mirković 1983 , 108) . 
+Carbonate rocks of different structure and age participate in its structure , while clastic rocks appear only sporadically . 
+Limestone is predominant among carbonate rocks , while there are fewer dolomites . 
+They are mostly presented by massive limestone of Triassic and Cretaceous age . 
+Limestone with nodular chert can often be seen in layered limestone . 
+Cretaceous-Palaeogene sediments , the so called Durmitor flysch , take a special place in the carbonate complex of rocks . 
+Those are layered limestone breccias , layered sandy limestone , marly limestone , marl and sandstone . 
+Above this petrologic diversity , however , different kinds of carbonates prevail . 
+Therefore , they do not differ much from other rocks of the carbonate complex . 
+Clastic rocks were mostly formed during the Triassic , and they are presented in quartz sandstone , sandy limestone . 
+They occupy small area on Mount Durmitor . 
+Middle Triassic Andesites also belong to this complex . 
+They appear in small areas below Crvena greda , near Bosača and Lake Barno (Živaljević et al . 
+1989) . 
+Durmitor belongs to two major tectonic units . 
+The southwestern part of the mountain belong to the Kuči tectonic unit (Prutaš , Vjetrena brda , Dobri do , Sedlena greda , Stožina , Ružica , Lojanik , Bolj) , the rest part of the mountain belong to the Durmitor tectonic unit . 
+The tectonic unit of Durmitor was overthrusted from the northeast over the sediments of the Kuči tectonic unit along the over trust of Ranisava (Živaljević et al . 
+1989) . 
+Based on instrumental measuring (Weather almanacs) and statistical calculations , mean annual air temperature at Žabljak (1450 ma . s . l . ) is 4 . 7 °C (period 1958–1993) . 
+Mean monthly air temperature in the coldest month (January) is 4 . 3 °C at Žabljak , while it is 14 °C in July . 
+On the basis of temperature gradient calculations , the contemporary mean annual air temperature is positive in the most part of the mountain . 
+Mean annual temperature is negative only above 2450 m a . s . l . , while it is –0 . 5 °C at the highest parts (Djurović 1996) . 
+Based on 12 precipitation stations , the analysis of the precipitation amount has been done for the period from 1958 to 1993 (Djurović 1996) . 
+The position of the mountain , in relation to dominant direction of moist air masses , and altitude are considered to be the crucial factors for determining precipitation amount . 
+These factors have even existed during the Pleistocene without more any significant changes difference . 
+Recent distribution and spatial relations of precipitation amount are very important for understanding the formation of glaciers on Durmitor during the Pleistocene . 
+Precipitation amount greatly increases in areas situated in the direction of dominant moist masses . 
+Therefore , the southwestern slopes of Durmitor receive even 60% more precipitation than area of Jezerska površ and northeastern slopes of the mountain . 
+As calculated , the central , highest parts of the mountain receive about 2600 mm of precipitation per year . 
+Annual precipitation slightly decreases towards southwest to about 2000 mm , while it decreases more significantly towards karst plateaus that surround Durmitor in the east , west and north . 
+In this areas , annual precipitation is about 1200 mm . 
+2 Methodology of reconstruction
+Based on the results of both previous and contemporary researches , a picture of the extent of ice cover , moving direction and types of glaciers and the intensity of glaciation during the Pleistocene has been reconstructed . 
+The reconstruction is done on the basis of glacial forms , preserved in the relief of Durmitor . 
+These are , above all , the erosional forms – cirques and glacial valleys . 
+Roches moutonnées , nunataks and glacial shoulders also served in the establishing the moving directions of glaciers and glacial phases . 
+Glacial sediments and accumulation forms such as till (moraine material) and moraines were less significant for the reconstruction . 
+There are very little of them on Durmitor , and the reasons are twofold . 
+Glaciers descended off the mountain and spread over the mountain plateaus that surround Durmitor . 
+Consequently , they are preserved only at some places on the mountain during the last phase of the existence of glaciers . 
+The second reason lies in quick altering of glacial sediments into fluvial by which the possibility of exact genetic determination is lost , what significantly influence the final reconstruction . 
+Aerial photo images were used for the identification of forms at a scale of 1 : 25 000 , while for the survey of the spatial relations the topographic maps of the same scale were used . 
+Nevertheless , all data , obtained by remote detection , were checked through direct terrain observation . 
+During the reconstruction of glaciers , significant attention was paid to factors that influenced the formation and modification of the Pleistocene ice cover of Durmitor . 
+It is mainly the shape of the pre-glacial relief , geological structure of the terrain which was exposed to glacial process , type of glaciers , inclination of slopes , aspect of slopes , direction of wet air masses , rain shadow and postglacial processes . 
+Special attention was paid to possible errors during establishing the genetics of analyzed forms and sediments (Djurović 2007) . 
+3 Results of previous studies
+Researching the Pleistocene glacial morphology of Durmitor , establishing the moving direction of glaciers , the extent of glaciation began at the end of the 19th century . 
+Starting from 1888 and 1897 J . Cvijić made detailed researches of glacial traces on this mountain . 
+Many papers published from 1899 to 1926 (Cvijić 1899; 1903a; 1903b; 1913; 1926) were the result of these researches . 
+The results of Cvijić ' s studies on Durmitor glaciation can be summarized into several major theses:
+• glacial traces on Durmitor belong to younger glaciation of this part of the Balkan Peninsula; he separated the Older glacial phase (Riss) and the Younger phase (Würm):
+• there was one glacial period with three stadials what corresponds to the Würm of the Alps;
+• there were three types of glaciers: valley , karst and piedmont . 
+Cvijić ' s »karst type of glaciers / glaciation« were developed on the terrains rich in limestone . 
+The karst relief was formed in the pre-glacial period as well as in the interglacial phase or phases . 
+By the change of the karst process with the glacial process , the glaciers were formed in the karst forms of relief . 
+Uvalas for example greatly influenced the development of glaciers as they enabled ice accumulation , spreading of glaciers and their slow and inverse moving while coming out of them . 
+Fractures were also frequent in the vertical profile of glaciers , as well as of glacial valleys formed during the motion . 
+These fractures were the consequence of karst processes , not the glacial one (Cvijić 1889; 1913) . 
+Another significant researcher of this area was B . Milojević . 
+He also included the problems of the Pleistocene glaciation of Durmitor into many studies (Milojević 1937; 1950; 1950a; 1951) . 
+He gave the following results on glaciation of Durmitor:
+• two glacial phases were present , older Riss and younger Würm;
+• three stadials within the Würm glaciation can be found;
+• during the two glacials , the piedmont glaciation of the whole Jezerska površ did not exist , but only by joining the glaciers of Ališnica , Dobri do , Savin do and Korito , piedmont glacier was formed which moved towards the Tara as a valley glacier . 
+After long interruption , the researches of Durmitor glaciation continued at the beginning of the 1970s . 
+A new methodological aspect in the study of glaciation was presented by using aerial-photo images . 
+It was established that , above piedmont glacier that existed on Jezerska površ , the piedmont glacier of Todorov do also existed , which moved towards the Piva mountain (Marović and Marković 1972) . 
+Detailed study on geological structure of Durmitor , Piva Mountain and Volujak also included the studies of the Pleistocene and Quaternary sediments (Mirković 1983) . 
+More detailed analysis of age and genesis of the youngest sediments of this area were missing . 
+During long geological researches for the elaboration of the basic geological map , a decent attention was paid to glacial sediments established mostly on Jezerska površ , while on the very Durmitor their determination was missing (Živaljević et al . 
+1989) . 
+Within detailed geomorphological researches of the high-mountain karst of Durmitor , the detailed studies of traces of the Pleistocene glacial forms were also done . 
+By using aerial-photo-images and direct terrain research , the reconstruction of glacial forms was done and cirques and glacial valleys , as well as other glacial forms were determined on this mountain . 
+Surfaces , exposed to a long-term and short-term influence of glacial process were determined , and all in the function of establishing the genesis of the high mountain karst on this mountain (Djurović 1996) . 
+The basic characteristics of the contemporary glacial process are shown on this mountain by the detailed geomorphological map of the Debeli namet glacier and its direct surrounding . 
+Two glacier pits and a glacier table which appeared on the glacier during the summer of 1993 were shown in the study . 
+On the basis of holes in glacier , the depth of glacier was established . 
+Vertical profile through glacier was also established (Djurović 1999) . 
+Radiochemical methods , namely , gamma spectrometry and activity measurements on the mass balance history and ice dynamism of the glacier (Debeli Namet) and cave ice (Ledena pecina) of Durmitor Mountains have been applied in these investigations . 
+Gamma spectrometry did not satisfy the hopes for dating 1963 AD radiochemical reference horizons from the natural ice bodies of Durmitor Mountains (Kern et al . 
+2006) . 
+Moraines of the Debeli namet glacier were subject of climate variation determination researches . 
+As established by lichenometry , the last two moraines originated from 1878 and 1904 and they were the consequence of climatic variations , coinciding with average variations in the eastern Mediterranean (Hughes 2007) . 
+The contemporary process of glaciation on Durmitor has been observed through the influence of extremely high summer temperatures in the period from 2003 to 2007 . 
+It was established that these summer temperatures influenced the reduction of the Debeli namet glacier , but not on its disappearance (Hughes 2008) . 
+4 Glaciers of the Durmitor mountain
+As established on the basis of the reconstruction , there were a great number of glaciers on Durmitor during the Pleistocene . 
+Many glaciers joined and formed large glaciers among which the following stand out: Dobri do , Valoviti do , Sušica , Ališnica , Pošćenski glacier . 
+There were also other smaller glaciers there . 
+Glaciers differed by the type; many of them belonged to valley type , but there were also saddle and piedmont glaciers . 
+Due to karst basis of the mountain and developed pre-glacial karst relief , a special type of glaciation was developed on Durmitor , which even J . Cvijić defined as karst type of glaciation . 
+Glaciers were moving from the mountain into three major directions: towards Jezerska površ and the Tara canyon , Piva Mountain and the Piva canyon and Komarnica valley . 
+During the glacial , almost the whole mountain was under ice cover wherefrom just the highest ridges and peaks protruded . 
+4 . 1 Dobri do Glacier
+The Dobri do glacier was the largest glacier that ever existed on the area of Durmitor . 
+It was formed in relatively opened pre-glacial basin , of Dinaric spreading direction (NW–SE) , 5 km long and 2 km wide . 
+The northern rim of the basin is fenced by high peaks of Prutaš (2393 ma . s . l . ) , Šareni Pasovi (2236 ma . s . l . ) , Soa (2440 ma . s . l . ) , Zupci (2309 ma . s . l . ) , Bandjerna (2409 ma . s . l . ) and Milošev tok (2426 ma . s . l . ) . 
+The primary places of ice accumulation were formed , i . e . the primary glaciers beneath these peaks and ridges: the Duški lednik glacier and the Vjetrena brda glacier . 
+They represent the highest branches of the Dobri do glacier . 
+By joining these two glaciers , as well as ice of Lojanik , Bolj and Sedlena greda , an ice field was formed in the area of the present Dobri do . 
+Glacial tongues were spreading from it and moving to different directions . 
+The Duški saddle glacier was formed beneath the southern slope of Prutaš on about 2050 m above the sea-level . 
+It covered the whole karst area of Duška polica . 
+The surface was trimmed in southern and western part by the erosion of western branch of glacier which separated from ice field in Dobri do . 
+The eastern part of the karst surface was also cut by the erosion of the Zeleni vir glacier . 
+Since the karst surface was cut , the ice mass was cracking and falling over Duške valje towards the Zeleni vir glacier , over Žljeb towards western branch of the Dobri do glacier , while in the western part directly towards Todorov do . 
+North of the Dobri do glacier , on the southern side of Šljeme–Bandjerna–Zupci ridge , the Vjetrena brda saddle glacier was formed on structural plateau (contact of Kuči and Durmitor tectonic unit) . 
+The ice mass piled from the mentioned ridge on the surface of about 2150 m a . s . l . 
+Ice moved into three directions . 
+During the stronger phase of glaciation the ice mass was feeding the Dobri do glacier and the Pošćenski glacier also , but insignificantly . 
+During the weaker phase , the glacier moved only towards Dobri do . 
+The glacial branches of Zeleni vir , Surutka and Valoviti (južni) do divided from the saddle glacier of Vjetrena brda . 
+Glacial branch of Surutka (2050 ma . s . l . ) , breaking the ridge of Vjetrena brda , was cracking and falling on the shelf of Polica where it got into the structure of ice mass of the Dobri do glacier . 
+Glacial branch of Valoviti (južni) do (2100 m a . s . l . ) had a very complex moving . 
+The reason of this complexity lies in the change of the glaciation intensity as well as in the erosion of limestone basis and expanding and opening the new moving directions of ice . 
+During stronger glaciation , the glacier first moved towards southeast and stroke Uvita Greda (2199 m a . s . l . ) . 
+A smaller part of it was passing over the ridge and moving towards the Dobri do glacier . 
+Greater part was turning east . 
+By this separation of the mass of ice on the area of Uvita greda the formation of larger nunatak started . 
+Under further motion the glacial branch was coming across several rocky peaks , splitting into many parts and making several smaller nunataks . 
+One part was falling towards the Mali Lomni do glacier (1930 m a . s . l . ) linking with it and moving further toward the central part of the Pošćenski glacier . 
+Another part was moving through Uvito ždrijelo and coming down the source part of the Pošćenski glacier on the place of the present Lake Valovito . 
+During the younger phase , Uvito ždrijelo was widened and enabled the whole glacial branch to pass towards the present basin of Lake Pošćensko , so that the inflow of ice to the Mali lomni do glacier stopped . 
+This glacial branch deposited moraine material and lateral moraine in the present basin of Lake Valovito and below it . 
+However , the final change of the moving direction of Valoviti do glacial branch was done by the complete cutting of the ridge of Uvita greda in the area of Žleb . 
+Since then the feeding of the Pošćenski glacier stopped , while the motion of the whole mass of glacial branch of Valoviti (južni) do was directed towards the Dobri do glacier . 
+During the last phase the glacial branch was falling over the slope (–200 m) situated at the end of Žljeb . 
+The glacier could not regenerate and continue further motion , but it melted there . 
+On the place of its melting (1950 ma . s . l . ) the dispersed deposits of moraine material were preserved . 
+In the contemporary relief on the area of Valoviti (južni) do and Uvita greda the remnants of great valley glacier were preserved , which corresponds to stronger glaciation and smaller valley glacier , which is carved into it , originated during the weaker phase of glaciation . 
+From the northern part of the saddle glacier of Vjetrena brda , the glacial branch separated , whereof in the area among the peaks of Zubci (2309 ma . s . l . ) , Minin bogaz (2387 ma . s . l . ) and Lučin vrh (2394 ma . s . l . ) , an independent glacier of Zeleni vir was formed on about 2030 ma . s . l . 
+It was turning south from the present basin of Lake Zeleni vir and over three bends and Mliječni and Urdeni do joined the Dobri do glacier . 
+An ice field was formed of glaciers that were flowing from different sides on the area of the present basin of Dobri do . 
+The individual glaciers separated and moved from it (Figure 3) . 
+The first one moved west , over the saddle of about 1880 ma . s . l . towards Todorov do and further towards the Piva canyon . 
+The second branch of the Dobri do glacier moved south between Bolj and Lojanik towards the present Komarnica valley . 
+Breaching through the narrowest part (Klještine) , it entrenched the glacial shoulders on both glacial sides . 
+It moved on about 1750 ma . s . l . 
+The third branch of the Dobri do glacier moved southwest between Bolj and Sedlena greda . 
+It moved over the saddle on about 1700 m a . s . l . towards Grabovica . 
+The saddle is the highest on the west and the ice mass moved over it only during the strongest glaciation , i . e . relatively short time period . 
+The motion of ice is oriented towards lower saddles on the south and southeastern side . 
+By the reduction of the intensity of glaciation , the glacier near Klještina started entrenching the new glacial valley , while the former bottom of the glacial valley remained on 250 m relative height . 
+At that time the motion of ice towards Grabovica stopped . 
+4 . 2 Valoviti do Glacier
+The Valoviti do glacier existed north to ridges of Sljeme (2447ma . s . l . ) , Zupci (2309ma . s . l . ) , Soa (2440ma . s . l . ) . 
+It was formed in the central part of the mountain (Figure 3) . 
+It made a cirque of irregular circular shape on about 2020 m above the sea-level and sides of 2400 m a . s . l . in the north , 2480–2520 m a . s . l . in the west and 2200 m a . s . l . in the east . 
+The cirque is partially opened in the northeastern part by the saddle which is on 2160 m a . s . l . , i . e . on about 70 m relative height . 
+When the accumulation of ice reached the critical height , i . e . the height of the saddle the ice mass began to move . 
+It moved over Biljegov do , and then turned southeast towards Lokvica where it joined the Lokvički glacier . 
+The Ledeni do glacier joined the mass of glaciers of Valoviti do . 
+It was formed beneath the high ridges of Minin bogaz (2387 m a . s . l . ) , Bandjerna (2409 m a . s . l . ) , Milošev tok (2426 m a . s . l . ) and Terzin bogaz (2303 m a . s . l . )
+Change in the intensity of glaciation was established on the basis of glacial shoulder which is on 150 m relative height . 
+The Lokvički glacier joined the ice mass of the Valoviti do and Ledeni do glaciers . 
+The glacier , originated by connecting these three glaciers , continued further moving towards northeast and by slope of 300 m it descended towards the present basin of Lake Crno and Jezerska površ . 
+4 . 3 Sušica glacier
+The Sušica glacier was one of the longest glaciers in Durmitor . 
+It was formed in a cirque 2 . 5 km long and 1 . 5 km wide , on altitude 1680 m . 
+The cirque is opened in the northwestern part , and fenced on all other sides by high ridges of Planinica (2330 ma . s . l . ) , Soa (2523 ma . s . l . ) , Šareni pasovi (2248 ma . s . l . ) and Prutaš (2293 m a . s . l . ) . 
+The size of the cirque is not only the consequence of the glacial erosion process , but the structural relations , i . e . the existence of great over trust of the Kuči and Durmitor tectonic unit . 
+The glacier came out of the cirque in the northwestern part , near Skakala and moving towards the Tara it descended lower than 1100 m (Figure 6) . 
+The Sušica glacier was a valley-type glacier (Figure 3) . 
+The ice mass was coming from two short glaciers to the major glacier . 
+They were formed on the northern side of the Prutaš–Šareni pasovi ridges , in Prutaški do (2010 m a . s . l . ) and Škrčko ždrijelo (1950 m a . s . l . ) . 
+The glacier from Škrčko zdrijelo left a series of moraines beneath the cirque , on about 1850 m a . s . l . 
+In relation to the Sušica glacier , both glaciers were hanging glaciers (Figure 4) . 
+4 . 4 Poljice glacier
+The plateau glacier of Poljice was formed in the area of Donja and Gornja Poljice , was formed on about 2250 m a . s . l . on a limestone plateau . 
+Ice mass moved from the limestone surface towards the Sušica and Ališnica glaciers . 
+When moving , the glacier did not develop the glacial morphology . 
+The adjacent glaciers cut this surface by strong erosion and additionally differentiated it in relation to the surrounding terrain (Figure 3) . 
+4 . 5 Štuoc glacier
+Another plateau glacier of Štuoc was formed at the utmost northern part of Durmitor , on about 2150 m above the sea-level , on old karst plateau that had been formed during the Pliocene . 
+Ice mass moved off this surface to all directions and fed the adjacent glaciers . 
+4 . 6 Podštuoc saddle glacier
+Podštuoc saddle (1900–2000 ma . s . l . ) is situated between the plateau glaciers of Poljice and Štuoc . 
+Its spreading direction is Dinaric . 
+It is opened towards the glacial valley of the Sušica glacier in the northwestern part (1600 m a . s . l . ) , and towards the glacial valley of the Ališnica glacier in the southeast (1900 m a . s . l . ) . 
+The Podštuoc saddle glacier was formed in this area . 
+It originated partially by the accumulation of ice of the atmospheric precipitation , while mostly by ice mass of two adjacent higher plateau glaciers (Poljice and Štuoc) . 
+During stronger glaciation (Figure 3) the ice mass moved in two directions: toward the Sušica and Ališnica glaciers . 
+During weaker glaciation the saddle glacier significantly reduced and several small glaciers were formed: Kaludjerovača (1690 ma . s . l . ) , Vidrica (1850 ma . s . l . ) , Velika Rutulja (1940 ma . s . l . ) , Valoviti (severni) do (2050 ma . s . l . )
+(Figures 3 and 4) . 
+These glaciers were formed in the northwestern part of the saddle where there were , due to exposition , more suitable conditions for ice accumulation . 
+4 . 7 Ališnica glacier
+The Ališnica glacier was formed in a cirque , clearly fenced by Rbatine ridge (2401 m a . s . l . ) and Planinica (2330 ma . s . l . ) on the southwest . 
+The border is not limited by ridges on the north , but it represents a wide karst plateau wherein the cirque is partially entrenched . 
+The bottom of the cirque is on 2040 m above the sea level and sides of relative height from 180 to 360 m . 
+The cirque is opened in the northeastern part so that glacier descended through the opening towards Lake Zminje and Jezerska površ where it melted there . 
+The Ališnica glacier represented complex valley glacier of icefalls up to 250 m high . 
+The Ališnica glacier enlarged its mass in the upper part by ice of the plateau glacier of Poljice (Figure 3) . 
+Lateral glaciers came to Ališnica from many sides , lower on the area of the present Lake Zminje . 
+The Jablan hanging glacier , which existed on the place of the present basin of Lake Jablan , came from the north . 
+Due to southern exposition and relatively small height (about 1790 m a . s . l . ) it did not have greater ice mass , so it remained as hanging in relation to the Ališnica glacier . 
+Ice mass of the Podstuoc saddle glacier came from the north-west , while the Kobilji do glacier from the southwest . 
+This glacier originated in a cirque on 2070 m a . s . l . 
+Ice masses of the Korita piedmont glacier , which was formed on the northeastern slopes of Obla glava–Čvorov bogaz ridges , came to Ališnica from the south . 
+The glacier deposited moraine material on the area north to Čvorov bogaz , today preserved as dispersed piles of moraine material . 
+Throughout the later phase , the Korita glacier did not descend off the shelf but it melted on it (Figure 4) . 
+During the cirque phase of glaciation , the Ališnica glacier deposited a series of small head moraines in the highest part of the cirque (2200 m a . s . l . )
+(Figure 5) . 
+4 . 8 Velika kalica glacier
+The Velika Kalica glacier belongs to valley glacier group . 
+The glacier originated out of two cirque glaciers: Previja (2050 m a . s . l . ) and Debeli namet (2050 m a . s . l . ) . 
+The Debeli namet glacier is still preserved , presenting the area of the recent effects of glacial processes (Figure 5) (Djurović 1996 , 202; 1999 , 579) . 
+The Velika Kalica glacier originated from these two joined cirque glaciers . 
+At the exit from the mountain mass of Durmitor , the shorter glacier of Pleća joined the glacier from the south . 
+It was formed on the northern slopes of Savin kuk on about 1820 m a . s . l . 
+Soon , Velika Kalica glacier descended on Jezerska površ where it overspread on broad area . 
+During the retreat the glacier deposited several moraines in the glacial valley , in the area between Medjed and Savin kuk . 
+4 . 9 Pošćenski lednik glacier
+The Pošćenski lednik glacier was a complex glacier which significantly changed the characteristics in dependence of the intensity of glaciation . 
+During the strongest glaciation , the highest branch of the Pošćenski lednik glacier originated from the plateau glacier of Vjetrena brda (Figure 3) . 
+It was falling towards the present basin of Lake Valovito , getting into the structure of the main mass of the Pošćenski lednik glacier that was formed beneath the saddle of Sedlo (1910 ma . s . l . ) . 
+Lateral glaciers , formed on the southeastern slopes of Durmitor were joining the Pošćenski lednik glacier . 
+Several shorter glaciers were coming from the northern side to the Pošćenski lednik glacier . 
+Ice mass from the Vjetrena brda glacier reached the Mali lomni do glacier during stronger glaciation . 
+Under weaker glaciation the inflow of ice from the Vjetrena brda glacier stopped , while the Mali lomni do glacier began existing independently . 
+Ice mass was formed at the bottom of the cirque of about 2100 m above the sea-level . 
+The Veliki lomni do glacier , similarly to former one , was hanging in relation to the Pošćenski ledni glacier . 
+It was formed in cirque on about 2500 ma . s . l . and sides up to 2200 ma . s . l . 
+At the exit from the cirque , the glacier was breaking over the slope and falling towards the Pošćenski lednik glacier . 
+The Pod Štitom glacier was formed in cirque on 1850 m a . s . l . 
+During the older glaciation phase , the Pod Štitom glacier was coming out of the cirque and moving over Vodeni do (1660 m a . s . l . ) , wherefrom it kept rising on the saddle between Stožine and Vinjeva glavica (1705 m a . s . l . ) , and while breaking , it was falling from north towards the Pošćenski lednik glacier . 
+In the last phase of existence , the glacier could not succeed to pass over the saddle , but it stopped below it and melted there . 
+Thus this glacier made moraine material on inverse part of the shallow glacial valley . 
+The Korita glacier was formed directly near the Pod Štitom glacier . 
+It formed a regular cirque on about 2070 ma . s . l . 
+Ice moved southeast with frequent vertical breaks . 
+It descended over Meki do on Jezerska površ where it melted away . 
+In the last , weaker phase , the glacier retreated and only reached Meki do (Figure 4) . 
+It deposited moraine material there , today preserved as dispersed piles of blocks . 
+Coming across the rocky obstacle of Stožina , the Pošćenski lednik glacier divided in two parts on the way to Jezerska površ . 
+Passing Stozina it built a nunatak of it (Fig 7) . 
+Smaller part of the glacier crossed Meki do and Vinjeva glavica and descended towards Jezerska površ . 
+Greater part of the glacier proceeded towards Jezerska površ over Suva lokva and the area of the present basin of Lake Pošćensko jezero . 
+When the intensity of glaciation became reduced , the Pošćenski lednik glacier lost its highest branch that was coming from the Vjetrena brda glacier . 
+Due to ice mass reduction , the glacier did not reach Stožina , but it passed by its south side , and over Suva lokva and Lake Pošćensko jezero it reached Jezerska površ (Figure 4) . 
+4 . 10 Glaciers in the eastern side of Durmitor
+During the younger glaciation phase , the following four short glaciers were formed on the eastern slopes of Durmitor: Mlečni Do glacier , Savin kuk glacier , the Pod Štitom glacier and the Korita glacier (Figure 8) . 
+During older glaciation , the last two glaciers flowed towards the Pošćenski lednik glacier . 
+However , during younger glaciation , it came to shortening of their length and the reduction in the extension of the Pošćenski lednik glacier . 
+The formation of four independent glaciers is the result of it . 
+After coming out on Jezerska površ , they overspread and disappeared . 
+The Mlečni do glacier was formed in cirque with the bottom on about 1880 m a . s . l . 
+After leaving the cirque , the glacier was falling down on the Jezerska površ . 
+The Savin kuk glacier was formed in a cirque on about 2090 m above the sea-level . 
+Due to very steep eastern slopes of Šljeme , the glacier possessed high kinetic energy , so that it hollowed out a deep glacial valley , while after coming out on Jezerska površ it overspread on it . 
+5 Discussion
+The basic morphological and hypsometric characteristics , as well as their typology have been presented in the previous reconstruction of glaciers on Durmitor . 
+In order to make the complete reconstruction of the Pleistocene glaciers on Durmitor it is also necessary to describe their chronology , i . e . to establish the time periods in which the glacial phases developed . 
+Since the dating of the age has not been done yet , the glacial chronology can be analyzed by the correlation with the mountains on which the age of the glacial phases was established . 
+It is possible to compare certain glacial phases of Durmitor with the phases of the adjacent mountains (Figure 1) , considering that they are of the similar heights , distances from the sea and latitudes . 
+Three glacial phases were developed on a group of Maglić (2386 m a . s . l . ) , Volujak (2336 m a . s . l . ) and Bioč mountains (2397 ma . s . l . )
+(Milivojević 2007 , 122) . 
+It is established that the glaciers occupied the area from 30 to 35 km2 (Menković et al . 
+2004 , 384) on the Šar planina Mt . 
+(2748 m a . s . l . ) . 
+Older moraines situated at the end of the glacial valleys , moraines on lower heights than cirques and cirque moraines are ascertained on this mountain (Menković 1977 / 78 , 101; Menković 1990 , 64) . 
+There were older and younger moraines on the Kosovo and Metohia part of the Prokletije (Djeravica 2656 ma . s . l . ) . 
+On the basis of moraine material in the cirques , it can be concluded that there were also the third , youngest phase of glaciation which developed only in cirques (Menković 1994 , 141) . 
+As it has also been established , three glacial phases existed (Milivojević et al . 
+2008 , 115) in the central parts of the Albanian Prokletije (Maja e Jezerce 2697 m a . s . l . ) . 
+There were only one glacial phase (Menković 1994a , 30) in the northeastern part of the Prokletije (Hajla 2403 m a . s . l . , Žljeb 2381 m a . s . l . ) . 
+The existence of only one glacial phase has also been established on Mount Lovćen (1748 m a . s . l . ) , which is understandable in accordance with the height of the mountain and closeness of the sea (Menković and Djurović 1993 , 23) . 
+Three glacial phases have also been established on the Pindus Mountains in Greece (Hughes 2006 , 51) . 
+The comparison of the equilibrium line altitude (ELA) value is also significant for establishing the glacial chronology of Durmitor . 
+During the older glacial phase the ELA was 1600 m a . s . l . on the northern parts of Durmitor (Štuoc) , 1600 ma . s . l . near Crno jezero Lake , 1600 ma . s . l . in the eastern parts of the mountain (Šljeme) , it descended to 1400 m a . s . l . in the southern part of the mountain (Komarnica) , while it was about 1500 m a . s . l . in the northwestern part (the Sušica canyon) . 
+The average value of ELA for this glacial phase is 1540 m a . s . l . 
+During the younger phase of glaciation ELA had average value of 1850 m a . s . l . on Štuoc , 1900 ma . s . l . at Lokvice , 1850 ma . s . l . on the eastern slopes of Šljeme , 2000 ma . s . l . on Vjetrena brda , 2000 ma . s . l . below Prutaš , 1700 m a . s . l . on Škrke . 
+The average value of ELA for the younger glacial phase is 1880 m a . s . l . 
+The cirque phase of glaciation marked the increase of the ELA value . 
+The ELA was 1950 m a . s . l . in the northern part of the mountain (Vidrica , Kaludjerovača , Velika Rutulja) , 2100 m a . s . l . in the eastern part (Debeli namet , Savin kuk , Korito , Mliječni do) , 2080 m a . s . l . in the southern part of the mountain (Surutka , Vjetrena brda , Mali lomni do , Veliki lomni do , Zeleni vir) , while it was 1950 ma . s . l . in the western part (Škrke , Škrčko ždrijelo) . 
+The average value of ELA for this glacial phase is 2020 m a . s . l . 
+For the central part of the Prokletije Mt . , ELA was 1750 ma . s . l . for the first glacial event , 1942 ma . s . l . for the second and 2123 m a . s . l . for the third one (Milivojević et al . 
+2008) . 
+On the Pindus Mts . , the value of ELA is 1700 m a . s . l . for the lowest unit , 1890 m a . s . l . for the next glacial unit , while it is 2125 m a . s . l . for the last cold stage (Hughes 2006 , 51) . 
+The ELA value is always a little higher on the Durmitor mountains than on the Pindus and central part of the Prokletije . 
+The coincidence of the number of the phases and approximate ELA values of the Durmitor , Pindus and Prokletije enables a very reliable correlation , and thus the establishment of the glacial chronology on Durmitor , too . 
+As the indirect dating of the age of the glacial phases was done for Prokletije (Milivojević et al . 
+2008) , so the correlation of the glacial phases and the establishment of their age has only been possible with the Pindus Mountains . 
+The lowest glacial unit on Mount Pirin (Mount Tymphi , 2497 ma . s . l . ) has been dated (secondary carbonates (calcite) formed within glacial deposits) by using uranium-series dating to > 350 , 000 cal . years BP (Woodward et al . 
+2004; Hughes 2004) . 
+The next glacial unit formed by glaciers that reached mid-valley positions , has been dated to before the last interglacial in Greece prior to 137 , 000 cal . years BP . 
+The late-glacial on Mount Tymphi radiocarbon dating (slackwater flood deposits) indicates a period between c . 
+14 , 310 ± 200 and 13 , 960 ± 260 14C years BP (Woodward et al . 
+2001) . 
+On the basis of the correlation it can be concluded that the oldest glacial phase of the Durmitor mountains could have taken place during the early or middle Würm , the younger glacial phase during the Last Glacial Maximum , while the Cirque phase could have taken place in the Younger Dryas . 
+6 Conclusion
+Many glaciers existed on the Durmitor mountains during the Pleistocene . 
+The former pre-glacial karst relief , as well as the position in relation to moist mass moving , influenced both the formation and size of ice cover on this mountain and the moving directions of glaciers . 
+Karst type of glaciation caused that valley glaciers had many source branches . 
+The cause of such condition lies in the existence of many pre-glacial karst forms that were transformed into cirques during glaciation , i . e . into sources of glaciers . 
+Large karst pre-glacial forms caused not only the convergence of glaciers towards them but also the ice mass overspreading out of them and glacier moving to different directions . 
+Also , the parts of old plateaux from the Pliocene are preserved in the relief of Durmitor causing the formation of small saddle and plateau glaciers during glaciation . 
+Ice mass from these glaciers moved to different directions . 
+During two phases of glaciation (older stronger and younger weaker) , glaciers continually covered great parts of the mountain . 
+Glaciers were preserved only in cirques in the last (cirque) phase . 
+The consequence of the reduction in the intensity of glaciation was that glaciers stopped passing over the high saddles . 
+Therefore , the moving of ice mass was directed in one direction , but not in several , as it was the case in the previous phase . 
+By the reduction in the intensity of glaciation , the extension of glacier spreading also reduced . 
+That had a consequence of forming a greater number of shorter glaciers that by their length and mass were considerably more modest than glaciers of the previous stronger phase . 
+The area under ice during the stronger phase was about 54% , while during the weaker one it was 36% of total surface of Durmitor . 
+After two phases of continuous glaciation of Durmitor , the phase of cirque glaciation came , where glaciers were kept at the bottom of the cirques formed in the previous phases , and the extension of which depended on the local conditions (exposition , etc) . 
+This phase has been preserved until today and it is presented by only one cirque glacier – Debeli namet . 

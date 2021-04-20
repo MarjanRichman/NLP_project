@@ -1,0 +1,12 @@
+Variability of groundwater flow and transport processes in karst under different hydrologic conditions
+Significance of hydrological variability in karst is presented , which also discusses factors inducing such variability and consequences it may cause . 
+Groundwater flow in karst aquifers is often characterized by strong variability of flow dynamics in response to different hydrologic conditions within a short time period . 
+Consequently , water table fluctuations are often in the order of tens of meters , differences in flow velocities between low- and high-flow conditions can reach ten or even more times . 
+In dependence to respective hydrologic conditions groundwater flow also results in variations of flow directions , and thus in contribution of different parts of the aquifer to a particular spring . 
+The described hydrological variability has many implications for contaminant transport , groundwater availability and vulnerability . 
+Groundwater level rising reduces thickness of the unsaturated zone and decreases protectiveness of the overlying layers . 
+Higher water flow velocities reduce underground retention . 
+Due to more turbulent flow , transport and remobilization of solute and insoluble matter is more effective . 
+During high-flow conditions there is usually more surface flow and hence more concentrated infiltration underground . 
+Particularly in karst systems that show very high hydrologic variability , this should be considered to correctly characterize , understand or predict the aquifers’ hydrological behaviour and to prepare proper protection strategies . 
+Keywords: karst aquifer , temporal hydrological variability , groundwater flow , transport processes , karst spring , water source protection . 

@@ -1,0 +1,226 @@
+Kras kot kazalnik za določanje manj primernih območij za kmetijstvo
+IZVLEČEK: Predlagani kazalniki Evropske unije za določanje manj primernih območij za kmetijstvo v Sloveniji niso povsem primerni , saj bi z njihovim upoštevanjem izpadla nekatera izrazito in nedvoumno neugodna območja , na primer Suha krajina in Bela krajina , kmetje pa bi bili neupravičeno finančno oškodovani . 
+V takem primeru ima vsaka država članica Evropske unije pravico predlagati dodaten kazalnik , s katerim zmanjša tovrstna neskladja . 
+Glede na dejanske naravne razmere bi v Sloveniji neupravičeno izpadle predvsem nekatere kraške pokrajine , zato smo kot dodatni kriterij predlagali kazalnik kras , ki sloni na razporeditvi kraških , to je karbonatnih kamnin . 
+S prostorskim prekrivanjem kraških kamnin in prsti smo ugotavljali , ali bi že bolj smiselna in manj toga uporaba evropskih kriterijev iz sklopa prsti lahko zadostovala za boljše rezultate pri določanju manj primernih območij za kmetijstvo v Sloveniji . 
+KLJUČNE BESEDE: Slovenija , Evropska unija , pokrajina , kras , kmetijstvo , kriteriji , manj primerna območja , območja z omejitvenimi dejavniki
+1 Uvod
+Leta 1999 je Evropska unija kot območja z naravnimi omejitvami za kmetijstvo določila tri pokrajinske tipe (Council regulation… 1999 , členi 17 , 18 , 19 in 20; Review … 2009):
+• gorska območja s kratko rastno dobo , strmimi pobočji in visoko lego (obsegajo 72 , 3 % površja Slovenije) , 
+• posebna prizadeta območja , ki so ogrožena zaradi posebnih okoliščin in je kmetijstvo nujno zaradi varovanja okolja , ohranjanja kulturne pokrajine , še posebej obal , in turistične izrabe (10 , 0 % površja Slovenije) , 
+• druga manj primerna območja s trajno nerodovitno prstjo (4 , 0 % površja Slovenije) . 
+To pomeni , da kar 86 , 3 % površja Slovenije spada med območja z naravnimi omejitvami za kmetijstvo (Report… 2010) . 
+Leta 2005 je Evropska unija kar 91 milijonov ha ali 57 % kmetijskih zemljišč opredelila kot manj primerna za kmetijstvo . 
+Čeprav je na teh zemljiščih delalo približno 1 , 4 milijona ali le 13 % kmetovalcev , namenja Evropska unija tem območjem znatna sredstva . 
+Med letoma 2007 in 2013 je Evropski kmetijski usmerjevalni in jamstveni sklad EAGGF (European Agricultural Guidance and Guarantee Fund) tem območjem namenil 12 , 6 milijarde evrov , kar je 13 , 9 % sredstev , namenjenih razvoju podeželskih območij v Evropski uniji . 
+Leta 2004 so se plačila za kmetijsko manj primerna območja gibala med 15 in 50 evrov na hektar v [paniji , Estoniji , Litvi , na [vedskem in Poljskem ter med 170 in 250 evrov na hektar v Avstriji , Belgiji , ter na Finskem in Malti . 
+Povprečno plačilo za kmetijsko manj primerna območja v Evropski uniji je bilo 75 evrov na hektar (Eliasson s sodelavci 2010) . 
+Za večino evropskih območij z omejitvenimi dejavniki za kmetijstvo je značilno , da kmetijstvo ne more zagotoviti primernega dohodka , da primanjkuje delovnih mest v nekmetijskih panogah in da so območja slabo povezana z upravnimi središči . 
+Posledice se kažejo v opuščanju slabših zemljišč , zatravljanju in zaraščanju z gozdom ter propadanju infrastrukture . 
+S slabšanjem gospodarskih razmer pa se slabšajo tudi socialne razmere: manj je delovnih mest , prebivalci se izseljujejo , storitvene dejavnosti izginjajo (Cunder 2001) . 
+Podobno velja za Slovenijo . 
+Pred kratkim je Evropska unija dala večji poudarek območjem s slabimi podnebnimi razmerami in nizko rodovitnostjo prsti (LFA … 2012) . 
+Za uvrstitev območij v različne kategorije omejitev po letu 2013 je predlagala osem splošnih biofizičnih kriterijev , ki pa naj bi veljali le za druga manj primerna območja (Council regulation… 1999 , člen 19) . 
+Predlagani kriteriji so (Commision… 2012; Van Orshoven , Terres in Eliasson 2008; Elliason in ostali 2010; Van Orshoven , Terres in Toth 2012):
+• nizka temperatura , 
+• vročinski stres , 
+• prepustnost prsti , 
+• tekstura in kamnitost (skeletnost) prsti , 
+• globina prekoreninjenosti prsti , 
+• kemične lastnosti prsti , 
+• vlažnostno ravnovesje prsti , 
+• naklon površja . 
+Kriteriji so združeni v tri sklope: prst , podnebje in relief oziroma oblikovanost površja . 
+V Sloveniji so na razpolago vektorski podatki , ki omogočajo določevanje kmetijsko manj primernih območij ter izračunavanje učinkov različnih biofizičnih kriterijev za celotno državno ozemlje . 
+Tudi za celotno Evropsko unijo so na voljo ustrezni podatkovni sloji (European soil … 2012) , vendar pa imajo le redke države dovolj natančne podatke o prsti , reliefu , in podnebju (Pásztor , Szabó in Bakacsi 2010) , kar še posebej velja za Bolgarijo in Romunijo (Elliason s sodelavci 2010) . 
+Zaradi takšne neenotnosti nekatere države nasprotujejo uvedbi enotnih meril za celotno Evropsko unijo (Towers in Birnie 2009) . 
+Slovenija po številnih geografskih kazalnikih spada med države s slabimi naravnimi možnostmi za kmetijstvo . 
+Na to kažejo že samo podatki za nekatere reliefne kazalnike , s katerimi so močno povezani skoraj vsi ostali naravni dejavniki . 
+Kar 91 , 3 % površja Slovenije je na nadmorski višini več kot 200 m in 34 , 9 % več kot 600 m . 
+Kar 83 , 7 % površja Slovenije ima naklon nad 2° , 70 , 5 % nad 6° in 50 , 7% nad 12° (Perko 2007) . 
+Ravnine so le na 15 , 3 % površja Slovenije (Perko 2001) , pa še te ogrožajo poplave (redne poplave desetino ravnin , katastrofalne pa celo tretjino (Komac , Natek in Zorn 2008)) , zato je tam le slaba četrtina vseh kmetijskih zemljišč v Sloveniji (Cunder 2001) . 
+Kljub temu glede na navedenih osem evropskih kriterijev za določanje manj primernih območij za kmetijstvo pomemben del površja in kmetijskih zemljišč v Sloveniji , kjer so naravne razmere nedvoumno omejitveni dejavnik , neupravičeno izpade . 
+Najbolj očitno to velja za nekatere kraške pokrajine , na primer Suho krajino . 
+Ker članice Evropske unije lahko izjemoma predlagajo tudi dodatne kriterije oziroma kazalnike , smo na Geografskem inštitutu Antona Melika ZRC SAZU na podlagi značilnosti kraškega reliefa oblikovali nov , dodaten kazalnik , s katerim odpravljamo nekatere pomanjkljivosti evropskih kazalnikov , ki so se pokazale v pokrajinsko nadpovprečno pestri Sloveniji . 
+S tem smo nadomestili tudi pomanjkanje nekaterih podatkov v Sloveniji za posamezne evropske kazalnike . 
+Na podlagi tega kazalnika se med manj primerna območja za kmetijstvo uvrščajo tudi nekatera območja v Sloveniji , ki bi sicer po predlaganih evropskih kriterijih neupravičeno izpadla . 
+Kazalnik oziroma kriterij smo poimenovali kras ali zakraselost (angleško karst ali karstification) . 
+Uvršča se med reliefne kazalnike . 
+2 Kras
+Zakraselost slovenskih pokrajin je izrazit omejevalni dejavnik za kmetijstvo , kar so geografi že večkrat poudarjali (Gams , Lovrenčak in Ingolič 1971; Gams 1974; Kladnik in Senegačnik 1983; Gams 1987a in 1991; Kladnik 1998a; Cunder 2001) . 
+Kladnik in Senegačnik (1983) sta pri določanju kraških pokrajin upoštevala posebne prvine kraške pokrajine , kot so golo površje , spremenljiva globina prsti , razgiban mikrorelief , vrtače , poplave kraških polj in podobno . 
+Zakraselost se navzven kaže v posebnem tipu oblikovanosti površja , nastalem predvsem s korozijo oziroma kemičnim raztapljanjem karbonatnih kamnin , predvsem apnenca in dolomita . 
+Za kraške pokrajine je značilno kamnito površje z vrtačami , udornicami , uvalami , kraškimi polji , kraškimi ravniki ter suhimi in slepimi dolinami . 
+V ljudskem jeziku označuje izraz kras golo kamnito zemljišče . 
+Kras je najbolj izrazit na apnencu ali na območjih , kjer se apnenec menjava z drugimi karbonatnimi kamninami , manj izrazit pa je na ostalih karbonatnih kamninah ali tam , kjer se karbonatne kamnine menjavajo z nekarbonatnimi kamninami (Gams 1974; 2003) . 
+Omejitveni dejavniki zaradi zakraselosti so:
+• reliefne oblike: drobna reliefna razčlenjenost , predvsem z vrtačami in podobnimi korozijskimi oblikami;
+• vodne razmere: pomanjkanje površinske vode zaradi hitrega odtoka vode skozi prepustne kraške kamnine , zato so pogoste suše in je večja nevarnost požarov;
+• prsti (tla): nesklenjene , kamnite , plitve in glinaste , neenakomerno debele s pogostimi štrlečimi skalnimi izdanki in redkimi globljimi žepi;
+• velika kraška raztresenost drobnih kmetijskih zemljišč , kar otežuje strojno obdelavo in prilagajanje zemljiškoposestne sestave sodobnimi agrotehničnimi ukrepi . 
+Najznačilnejša in najštevilnejša depresijska reliefna oblika na krasu je vrtača , lijakasta korozijska kotanja s premerom do 50 m in globino do 10 m , na dnu prekrita z debelejšo plastjo kraške gline , ki je pogosto netopni ostanek kemičnega raztapljanja karbonatnih kamnin . 
+Poleg njih se pojavljajo še nekoliko večje uvale in kraška polja . 
+Na kraških poljih so marsikje zelo obsežne poplave , na Cerkniškem polju , na primer , dosegajo površino 27 km2 (Kranjc 1986) . 
+Te so dodatni omejitveni dejavnik za kmetijstvo , saj se lahko zadržujejo tudi več mesecev . 
+Med prvimi vodogradbenimi načrti na slovenskem krasu v 18 . in 19 . stoletju so bila prav dela za zmanjševanje in odpravljanje poplav na kraških poljih , vendar jih povečini niso izvedli ali dokončali (Gams 1974) . 
+Zaradi prevlade podzemnega kraškega vodnega odtoka je površinska rečna mreža na krasu zelo redka . 
+Na apneniškem krasu površinskih voda praviloma sploh ni , zato marsikje močno primanjkuje vode in so pogoste suše . 
+Padavinska voda povečini neposredno odteka skozi razpoke v podzemlje , kjer oblikuje kraške votline . 
+Preoblikovanje kraških kamnin je posledica njihove razpokanosti , prepustnosti in topnosti . 
+Padavinska voda se v prsti navzame ogljikovega dioksida , pri čemer nastane šibka ogljikova kislina . 
+Ta omogoča raztapljanje ali korozijo že na površini , deloma pa tudi v podzemlju . 
+Zaradi nje se kraško površje počasi raztaplja in znižuje , v povprečju za nekaj mm v stoletju (Mihevc 1998; 2001; 2007) . 
+Glede na prevladujočo karbonatno kamnino ločimo apneniški in dolomitni kras . 
+Za apneniškega je značilno polgolo površje s prepletanjem skalnatih in s prstjo prekritih površin . 
+Površje sestavljajo kopasti vrhovi in kraške kotanje . 
+Ponekod je več kot 100 vrtač na km2 , na manj čistih apnencih pa manj . 
+Na Krasu , na primer , izstopa območje med Lipico in Sežano z gostoto kar 150 vrtač na km2 , pri Markovščini v Podgrajskem podolju pa jih je celo 240 na km2 . 
+Vrtače so pogostejše na razpokanih , tektonsko pretrtih območjih (Natek s sodelavci 1983; [ušterič 1984; Fridl s sodelavci 1996; Gams 2000; Čar 2001) . 
+Površje na apnencu je pogosto močno zakraselo , zato ga je tudi na nekoliko bolj uravnanih območ jih težko obdelovati . 
+Najmanjše kraške oblike so žlebiči , vzporedne drobne razjede , ki jih na goli skali v smeri največjega strmca izdolbe padavinska voda . 
+Na podoben način vzdolž razpok in manj odpornih delov kamnine nastajajo tudi škraplje . 
+Ponekod je kamnina tako močno zakrasela , da iz površja izstopajo številni skalni čoki , na pobočjih in slemenih pa je pogost kamnit svet z gruščem , imenovan griža (Gams 2003) . 
+Apnenčeve skale , ki so na površju izpostavljene kemičnemu raztapljanju , imajo drobno razčlenjeno in hrapavo površino , apnenčeve skale , ki ležijo v prsti , pa imajo gladko oziroma zaobljeno površino . 
+Zaradi tega lahko povsod , kjer je zaradi delovanja človeka erozija odnesla prst , ugotovimo , do katere višine je nekoč segal pokrov prsti (Gams 1971) . 
+Na ta način lahko sklepamo tudi o intenzivnosti erozije prsti , ki je na krasu pogosto spregledan geomorfni proces , saj voda vseskozi spira prst v podzemlje . 
+Intenzivnosti spiranja prsti v podzemlje se pogosto premalo zavedamo . 
+Posebej močno površinsko spiranje prsti je na strmih pobočjih ob nalivih , zato so opuščeni vinogradi pogosto prave kamnite puščave (Hrvatin s sodelavci 2006) . 
+Erozijo prsti na krasu ugotavljamo posredno . 
+Na ravnih kraških travnikih kamenje običajno moli od 20 do 30 cm iz zemlje in tolikšen je tudi učinek erozije . 
+V vinogradih je erozija običajno mnogo večja . 
+Domnevajo , da je bila erozija prsti na krasu v različnih zgodovinskih obdobjih različna . 
+Po poseku gozda in ob prvem oranju je bila hitra , pozneje pa se je postopoma upočasnila . 
+Na njivah in vinogradih jugovzhodne Slovenije je bilo ugotovljeno , da se prst v povprečju znižuje kar za 1 cm na leto (Hrovat 1953) , povprečno pa se v Sloveniji letno sprošča od 3 do 5 ton prsti na hektar obdelovalnih zemljišč (Komac in Zorn 2005) . 
+Na dolomitnem krasu so značilne kraške reliefne oblike redkejše , zato je tovrstni kras navadno manj izrazit od apneniškega . 
+Značilne so plitve suhe dolinice , imenovane dolci . 
+Poleg kemičnega raztapljanja kamnine sta na dolomitu pomembni še erozija in denudacija , zato je dolomitni kras marsikje podoben rečno-denudacijskemu reliefu in ga tudi imenujemo fluviokras (Komac 2003) . 
+Površje na karbonatnih kamninah je praviloma manj primerno za kmetijstvo . 
+Obdelovanje zemlje je bilo zaradi drobne razčlenjenosti in kamnitosti površja vedno povezano z velikimi vlaganji v melioracije zemljišč . 
+Zadostna debelina prsti , ki omogoča ureditev njiv , je le na dnu raznovrstnih kraških kotanj , po suhih in slepih dolinah ter na zakraselih planotah . 
+V preteklosti so si ljudje skušali pridelovalne razmere izboljšati s trebljenjem kamenja s kraškega površja . 
+Če so želeli kositi , so morali odstraniti kamenje v višini prsti , kjer pa so želeli orati , so morali poseči globlje v prst: 20 do 30 cm pri železnem plugu in do 50 cm pri rigolanju . 
+Odbito kamenje so odvrgli v brezna in udornice , ga zmetali na kupe , ali iz njega zgradili suhe zidove (Gams 1987b) . 
+Med najbolj razširjene melioracije na krasu spada urejanje vrtač , kjer so posegli tudi v njihovo obliko , zato so nastale tako imenovane »delane« vrtače; z velikimi posegi so nastali tudi delani travniki in orne terase s škarpami . 
+Kako obsežno je bilo nekdaj trebljenje kraškega površja , lahko sklepamo po odbitem kamenju , ki je zloženo v škarpe in zidove , ponekod pa tudi v groblje . 
+Takšni kamniti zidovi pogosto obdajajo delane vrtače , v katerih so bile skromne njivice . 
+Na ta način so tudi varovali pridelek pred živino na paši . 
+Pogosto so z vsakega m2 urejenega zemljišča odstranili več sto kg kamenja . 
+Na Divaškem krasu ima tri četrtine v zidovih vgrajenih kamnov znake , da so bili odbiti (Gams 1991; Kladnik 1998b) . 
+Dno delanih vrtač , ki imajo gladka pobočja in oster , nenaraven prehod pobočja v dno , so uravnali s prstjo , ki so jo nagrebli s pobočij in bližnje okolice . 
+V njih so se najdlje ohranile njive in travniki . 
+V preteklosti je bila ostra meja med otrebljenimi travniki in neotrebljenimi pašniki , kjer je kamenje zavzemalo tudi čez polovico površja . 
+Delane vrtače so bile nekdaj pomemben del tradicionalne kulturne pokrajine , zdaj pa so povečini opuščene , oziroma so v njih travniki ali pašniki . 
+Pogosto so jih ogradili s suhimi zidovi . 
+Na katastrskem načrtu za vas Lokev na Krasu je bilo v 19 . stoletju vrisanih kakšnih sto okroglastih ograd , ki so njivice varovale pred živalmi , spiranjem dežja in erozijskim delovanjem burje . 
+V Krajni vasi je bila »delana« dobra polovica vseh vrtač (Gams 1987a) . 
+Prst , ki prekriva kraško površje , je neenakomerno debela in iz nje pogosto štrli kamenje . 
+Neenakomerna debelina prsti je največji omejitveni dejavnik za obdelovanje zemljišč na krasu . 
+Na krasu prevladujejo rendzine in rjave pokarbonatne prsti , ki so pogosto močno izprane in vsebujejo malo karbonatov . 
+Na apnencu z roženci je razvita bolj kisla in peščena prst , ki ji domačini pravijo kremenica , na čistejših apnencih pa ilovka . 
+V osrednjem horizontu kremenice so pedologi pri raziskavah ugotovili od 56 do 75 % kislega SiO2 , v ilovki pa le od 49 do 57 % . 
+Delež glinenih delcev v istem horizontu je približno enak: v kremenici od 56 do 75 % , v ilovki pa od 49 do 75 % . 
+Ugodna lastnost kraške jerovice je velika množina koloidnih delcev , zaradi katerih lahko v sebi zadržuje večjo količino vode . 
+To sposobnost v precejšnji meri zmanjšujejo večji kamniti delci , ki se v obdelanih kraških prsteh v veliki meri pojavljajo zaradi odbijanja kamenja ob melioracijah (Hrovat 1953; Gams 1974) . 
+Ko so kmetje na polgolem krasu izkrčili gozd , je bila krčevina uporabna le za pašo . 
+Danes se komaj zavedamo , da so morali kmetovalci večino površin za njive in travnike tako rekoč iztrgati krasu . 
+Kako obsežno je bilo nekdaj trebljenje kraškega površja , lahko sklepamo po odbitem kamenju , zloženem v škarpe in zidove . 
+Do 2 . svetovne vojne je prevladovalo ročno trebljenje , pri katerem so otrebili tudi do 200 kg kamenja na kvadratni meter zemljišča . 
+Obseg takšnih melioracij je bil skromen in povečini omejen na zemljišča v neposredni bližini bivališč (Gams , Lovrenčak in Ingolič 1971) . 
+Po 2 . svetovni vojni se je začelo obdobje strojnega trebljenja ob pomoči bagrov in buldožerjev (Hrvatin 1985) . 
+Strojne melioracije travnika so časovno in delovno zahteven postopek , ki ponavadi obsega naslednje faze:
+• sečnja gozda , 
+• izravnava površja s težkimi buldožerji , 
+• ročno trebljenje manjšega kamenja , 
+• strojni izkop in dovoz prsti , 
+• strojna izravnava prsti . 
+V trebanjskem delu Suhe krajine so na primer do leta 1990 pri čiščenju 2100 ha zemljišča odstranili 41 . 000 m3 kamenja oziroma 19 , 7 m3 ali 5 ton z vsakega hektarja . 
+Pri strojnem odbijanju skal ostanejo v prsti številni skalni delci , odkruški , ki zmanjšujejo sposobnost prsti za zadrževanje vode in pospešujejo sušnost (Gams 2003) . 
+Ker so karbonatne kamnine prepustne za vodo , kmetijska zemljišča v vegetacijski dobi pogosto prizadenejo suše . 
+Pomanjkanje površinske vodne mreže onemogoča kakršnokoli obliko namakanja . 
+Sušnost prsti dodatno povečuje kamninski drobir , ki je zaradi trebljenja pogosto pomešan v prsti . 
+Zaradi suše so na kraških tleh pogostejši tudi požari (Ogrin 2002) . 
+V literaturi lahko zasledimo tudi opise manj primernih naravnih razmer za kmetovanje na krasu v drugih državah . 
+He in sodelavci (1998) so navedli številne ovire , s katerimi se srečuje kmetijstvo v kitajski pokrajini Guizhou . 
+Med njimi so izpostavili nizko alkalnost prsti , slabo rodovitnost , počasno tvorjenje prsti , tanek sloj prsti in njeno veliko erozijo , ki je največja v bolj namočenih predelih , poveča pa jo tudi čezmerna sečnja . 
+Prav tako so izpostavili dostopnost do vodnih virov , ki je zaradi podzemnega odtekanja vode zelo otežena in zato »… voda postane tako draga kot je nafta…« . 
+Tudi v primeru omenjene kitajske pokrajine je značilno , da je delež kmetijskih zemljišč majhen (od 5 do 10 %) . 
+Urich (1989) je opozoril , da je načrtovanje na območju tropskega krasa drugačno od drugih tropskih območij in zahteva posebne ukrepe . 
+Izpostavil je zagotavljanje podzemnih vodnih zalog , zadrževanje površinske vode , nenadzorovano odlaganje odpadkov in splošno ranljivost ekosistema . 
+Zaradi gorovja in / ali kraškega površja imajo slabše razmere za kmetijstvo tudi države na zahodu Balkanskega polotoka (Volk , Rednak in Erjavec 2010) . 
+3 Metodologija
+Za opredeljevanje kazalnika kras , določanje manj primernih območij za kmetijstvo glede na kazalnik kras in ugotavljanje povezanosti med kraškimi kamninami in prstmi smo najprej določili kraške litološke in pedološke enote . 
+Visoka stopnja povezanosti med kraškimi kamninami , na katerih temelji kazalnik kras , in kraškimi prstmi , ki zadoščajo pogojem za kriterije iz sklopa prsti , bi namreč pomenila , da bi se sporna (izpadla) kmetijska zemljišča že z ustrezno (smiselno) uporabo litoloških enot lahko uvrstila med manj primerna območja za kmetijstvo , zato uvedba novega kriterija , torej kazalnika kras , ne bi bila nujna . 
+Za vsako posamezno pedološko enoto je namreč mogoče ugotoviti , ali v splošnem (v povprečju) zadošča pogojem vsaj enega od kriterijev iz skupine prsti (prepustnost , tekstura in kamnitost , globina prekoreninjenosti , kemične lastnosti in vlažnostno ravnovesje prsti) za uvrstitev k manj primernim območjem za kmetijstvo . 
+Pri kazalniku globina prekoreninjenosti prsti je na primer mejna vrednost 30 cm , kar pomeni , da vsi tipi prsti oziroma pedološke enote , pri katerih globina prekoreninjenosti običajno ne presega 30 cm , ustrezajo merilom za uvrstitev k manj primernim območjem za kmetijstvo . 
+Taki mejni merili sta še , na primer , da morajo delci gline clay presegati 60 % ali da morajo kamniti izdanki segati več kot 15 cm iznad prsti . 
+Vektorski podatkovni sloj s kraškimi kamninami (Zemljevid tipov kamnin… 2012) smo pripravili na podlagi vektorskega sloja Litološka karta 1 : 250 . 000 , ki smo jo izdelali na podlagi vektorske Litostratigrafske karte Slovenije (Litostratigrafska karta … 2007; revizija 2011) , ki jo je po naročilu Agencije Republike Slovenije za okolje predvsem na podlagi vektoriziranih geoloških kart Slovenije v merilu 1 : 25 . 000 izdelal Geološki zavod Slovenije . 
+Kraške kamnine sestavljajo naslednje enote:
+• masiven apnenec , 
+• plastovit apnenec , 
+• ploščast apnenec , 
+• litotamnijski apnenec , 
+• apnenčev konglomerat , 
+• apnenec in dolomit , 
+• kraška ilovica , 
+• dolomit , 
+• karbonatno-klastične kamnine . 
+Vektorski podatkovni sloj s kraškimi prstmi smo pripravili na podlagi vektorskega sloja Pedološka karta 1 : 250 . 000 , ki so ga izdelali v Infrastrukturnem centru za pedologijo in varstvo okolja (TIS / ICPVO – Infrastrukturni center za pedologijo in varstvo okolja , Biotehniška fakulteta Univerze v Ljubljani , Ljubljana 1999–2011) . 
+Izbrali smo tiste prsti , ki s svojimi značilnostmi ustrezajo merilom vseh petih evropskih splošnih biofizičnih kriterijev iz sklopa prsti . 
+Kraške prsti sestavljajo naslednje enote:
+• litosol , 
+• rendzina na apnencu in dolomitu , 
+• rendzina na apnencu in dolomitu ter rjava pokarbonatna tla , 
+• rendzina na apnencu z roženci , 
+• rjava pokarbonatna tla na apnencu in dolomitu , 
+• rjava pokarbonatna tla na apnencu z roženci , 
+• rdeče rjava tla (terra rossa) , ilovka , 
+• rdeče rjava tla (terra rossa) , kremenica , 
+• izprana tla na apnencu in dolomitu , 
+• izprana tla na apnencu , akrična , 
+• izprana tla na konglomeratu . 
+Pripravili smo kontingečno tabelo , ki prikazuje , koliko kraških prsti je na kraških kamninah in koliko na nekraških kamninah , oziroma koliko kraških kamnin je pod kraškimi prstmi in koliko pod nekraškimi prstmi (preglednica 1) . 
+Na temelju frekvenčne distribucije smo najprej izračunali statistični kazalnik hi2 , iz njega pa statistična kazalnika r2 (determinacijski koeficient) in r (korelacijski koeficient) , ki prikazujeta stopnjo povezanosti . 
+Na podoben način smo pripravili tudi kontingenčno tabelo samo za kmetijska zemljišča s kraškimi kamninami in prstmi (preglednica 2) . 
+4 Rezultati za vsa zemljišča
+V Sloveniji , ki meri 20 . 273 km2 , je 9142 km2 (45 , 1 %) površja s kraškimi kamninami in 7975 km2 (39 , 3 %) s kraškimi prstmi . 
+Že sama razporeditev kraških kamnin in kraških prsti kaže na njihovo močno povezanost . 
+Iz kontingečne tabele (preglednica 1) je razvidno , da je kar 91 , 8 % kraških prsti na kraških kamninah in da je 85 , 2 % nekraških prsti na nekraških kamninah . 
+Hkrati je 80 , 1 % kraških kamnin pod kraškimi prstmi in kar 94 , 1 % nekraških kamnin pod nekraškimi prstmi . 
+Skupaj 36 , 1 % Slovenije sestavlja kombinacija kraških kamnin in kraških prsti , 51 , 7 % Slovenije pa je kombinacija nekraških kamnin in nekraških prsti , kar je skupaj kar 87 , 8 % . 
+To pomeni , da glede na uporabljene podatke na vsega 12 , 2 % površja Slovenije ni navedenih kombinacij , ali drugače , da se komaj na desetini površja Slovenije prepletajo kraške kamnine in nekraške prsti oziroma nekraške kamnine in kraške prsti . 
+Visoko stopnjo povezanosti potrjuje tudi korelacijski koeficient r , ki smo ga na podlagi več kot 32 milijonov kvadratnih celic z osnovnico 25 m izračunali iz hi2 . 
+Vrednost korelacijskega koeficienta r je 0 , 7555 . 
+Tako hi2 kot r (preglednica 1) znatno presegata mejo njunih teoretičnih vrednosti pri tveganju 0 , 01 , zato lahko s tveganjem 1 % oziroma z gotovostjo 99 % sklepamo , da sta prostorski razporeditvi kraških kamnin in kraških prsti statistično značilno povezani . 
+5 Rezultati za kmetijska zemljišča
+V prejšnjem poglavju smo ugotavljali prostorsko povezanost med kraškimi kamninami in prstmi za vsa zemljišča v Sloveniji , v tem pa le za kmetijska zemljišča . 
+V Sloveniji je 6640 km2 kmetijskih zemljišč (32 , 8 %) , od tega jih je 1927 km2 (29 , 0 %) na kraških kamninah in 1438 km2 (21 , 7 %) na kraških prsteh . 
+Že sama razporeditev kraških kamnin in kraških prsti kaže na njihovo močno povezanost . 
+Iz kontingečne tabele (preglednica 2) je razvidno , da je kar 90 , 8 % kraških prsti na kraških kamninah in da je 88 , 1 % nekraških prsti na nekraških kamninah . 
+Hkrati je 67 , 8 % kraških kamnin pod kraškimi prstmi in kar 97 , 2 % nekraških kamnin je pod nekraškimi prstmi . 
+To so torej razmerja , ki veljajo za kmetijska zemljišča na kraških kamninah in prsteh v Sloveniji . 
+Visoko stopnjo povezanosti potrjuje tudi korelacijski koeficient r , ki smo ga na podlagi več kot 32 milijonov kvadratnih celic z osnovnico 25 m izračunali iz hi2 . 
+Vrednost korelacijskega koeficienta je 0 , 7159 . 
+Tako hi2 kot r (preglednica 2) znatno presegata mejo njunih teoretičnih vrednosti pri tveganju 0 , 01 , zato lahko s tveganjem 1 % oziroma z gotovostjo 99 % sklepamo , da sta prostorski razporeditvi kraških kamnin in kraških prsti statistično značilno povezani . 
+To pomeni , da sta prostorski razporeditvi kraških kamnin in prsti statistično značilno povezani tako v celoti , za vsa zemljišča (0 , 7555) , kot tudi samo za kmetijska zemljišča (0 , 7159) , oziroma , da med korelacijskima koeficientoma ni pomembne razlike . 
+6 Sklep
+Pri celovitem vrednotenju kmetijskih zemljišč moramo upoštevati kazalnik kras , saj so za kraško površje značilne posebne pridelovalne razmere . 
+Kljub dokaj veliki namočenosti krasa v Sloveniji vodoprepustnost kraških kamnin in prevladujoč podzemni odtok otežujeta preskrbo z vodo . 
+Zaradi nizke vsebnosti netopnih sestavin v kamnini na apnencu prst nastaja počasneje kot na drugih kamninah , poleg tega je na kraških goličavah pogosta erozija . 
+Zato je površje na kraških kamninah prekrito z razmeroma tanko prstjo , delež kamninskega gradiva v njej pa je izredno velik . 
+Kmetovalci so morali že od nekdaj izboljševati prst (na primer s trebljenjem kamenja) , da bi si vsaj ponekod zagotovili boljše razmere za kmetovanje . 
+Kmetovanje otežuje tudi velika ranljivost kraškega ekosistema . 
+Morebitna pretirana raba mineralnih gnojil in zaščitnih sredstev je lahko zelo nevarna , saj se snovi v krasu spirajo neposredno v podzemlje , od tam pa prehajajo v kraške izvire , ki so na krasu edini vir pitne vode . 
+Razumljivo je , da je upoštevanje omenjenih značilnosti kraških kamnin nujno pri vrednotenju slovenskih kmetijskih zemljišč . 
+Kazalnik kras , ki smo ga opredelili , temelji na litološki sestavi površja in upošteva območja kraških kamnin , to je kamnin , na katerih je nastal kras . 
+Z njim smo izračunali delež kraškega površja v slovenskih katastrskih občinah ter ugotovili visoko stopnjo povezanosti kraških kamnin in kraških prsti . 
+Slednje upravičuje možnost , da bi kazalnik lahko temeljil tudi na prikazu kraških prsti , določenih s pomočjo pedološke karte . 
+Med manj primerna območja za kmetijstvo naj bi se v celoti uvrstile tiste katastrske občine , kjer sta vsaj dve tretjini kmetijskih zemljišč na kraških kamninah . 
+V Sloveniji je med 2697 katastrskimi občinami 561 ali petina (20 , 8 %) takih , v katerih sta glede na kazalnik kras vsaj dve tretjini kmetijskih zemljišč znotraj manj primernih območij za kmetijstvo . 
+Skupna površina kmetijskih zemljišč v teh 561 občinah je 148 . 677 ha (od tega jih je na kraških kamninah 133 . 122 ha) , kar je 22 , 4 % vseh kmetijskih zemljišč v Sloveniji . 
+Med slovenske pokrajine z najslabšimi naravnimi razmerami za kmetijstvo uvrščamo tudi Belo krajino in Suho krajino , ki po predlaganih osmih evropskih splošnih biofizičnih kriterijih skoraj v celoti izpadeta iz manj primernih območij za kmetijstvo , glede na kazalnik kras pa ne . 
+V Beli krajini in Suhi krajini je 77 katastrskih občin , kjer sta več kot dve tretjini kmetijskih zemljišč na kraških kamninah . 
+V Suhi krajini le ena katastrska občina ali 3 , 1 % ozemlja oziroma 3 , 0 % kmetijskih zemljišč v pokrajini ne spadajo med manj primerna območja za kmetijstvo , v Beli krajini pa je takšnih 6 katastrskih občin , ki obsegajo 10 , 6 % ozemlja oziroma 16 , 7 % kmetijskih zemljišč . 
+Glede na to , da velik del Slovenije z neupoštevanjem kazalnika kras izpade iz manj primernih območij za kmetijstvo , je tovrsten kazalnik nujen za dosledno vrednotenje slovenskih kmetijskih zemljišč in s tem povezane možnosti prejemanja skoraj desetih milijonov evrov subvencij Evropske unije . 
+Dokler bo Evropska unija k manj primernim območjem štela gorska območja (Council regulation… 1999 , člen 18) , neupoštevanje kazalnika kras za Slovenijo kot celoto ne bi bilo tako kritično , razen za že večkrat omenjeni izrazito kraški pokrajini Suha krajina in Bela krajina , kjer kmetje kljub izrazito neugodnim možnostim za kmetijstvo ne bi prejemali subvencij za kmetovanje na manj primernih območjih . 
+Če pa bi se kriteriji za določevanje gorskih območij , kamor spadajo skoraj tri četrtine Slovenije , zaostrili ali celo odpravili , bi bili negativni finančni učinki za Slovenijo in številne kmete zelo veliki , to pa bi lahko pomembno vplivalo na propadanje kulturne pokrajine in depopulacijo znatnega dela slovenskega ozemlja . 
+Kazalnik kras torej omogoča , da Slovenija tudi ob novih kriterijih za določanje manj primernih območij za kmetijstvo ohrani ali upravičeno celo malenkostno poveča delež kmetijskih zemljišč na manj primernih območjih , s tem pa tudi višino evropskih sredstev za njihov razvoj . 

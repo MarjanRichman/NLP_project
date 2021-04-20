@@ -1,0 +1,9 @@
+Characterization of the vadose flow and its influence on the functioning of karst springs: Case study of the karst system near Postojna , Slovenia
+In three selected drips in the Postojna cave in SW Slovenia and in the nearby Korentan spring , which in general belongs to the same karst aquifer , the discharge and electrical conductivity were measured at 15-minute intervals . 
+Simultaneously , the meteorological parameters in Postojna were measured and the effective infiltration was assessed . 
+The data obtained in the period of one hydrological year , 2003–2004 , was compared in order to study the influence of the vadose flow on the characteristics of groundwater flow in a karst system and on the functioning of a karst spring . 
+The highest discharges of the Korentan spring are the result of the inflow of water through a hierarchy of fissures of various permeabilities within the vadose zone , but the contribution of stored water from low-permeability zones is especially important . 
+One of our most significant findings is that in the conditions of high saturation of the vadose zone , the network of small fissures is hydraulically connected , which enables an integral reaction of the system to the pressure pulse induced by infiltrated precipitation . 
+On the other hand , a detailed comparison of effective infiltration and discharge indicates that in dry periods with a lower saturation of the vadose zone , the infiltrated precipitation is mainly stored in the system and only the most permeable fissures enable a rapid transfer of the recharge impulses toward the spring . 
+Data on measured discharge and conductivity were additionally compared in order to study the complex conditions of the actual mass flow of water through the system . 
+Key words: karst aquifer , vadose zone , Postojna Cave , Korentan spring , Slovenia . 

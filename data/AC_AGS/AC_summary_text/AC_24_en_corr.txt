@@ -1,0 +1,10 @@
+Hydrodynamic modeling of a complex karst-alluvial aquifer: case study of Prijedor Groundwater Source , Republic of Srpska , Bosnia and Herzegovina
+Middle Triassic fractured and karstified limestone and dolomite form a karst aquifer in the Sana River Valley near the town of Prijedor . 
+As a result of intensive tectonic movements , carbonate rocks are mostly below the Sana River level , covered by younger Pliocene and alluvial deposits . 
+The main source of groundwater recharge is infiltration from the Sana River through its alluvium over most of the aquifer . 
+The main objective of the research reported in this paper was to evaluate the hydraulic relationships of the alluvial , Pliocene and karst aquifers in order to better understand the water supply potential of the karst aquifer . 
+Although the use of hydrodynamic modeling is not very common with karst aquifers , the developed model provided significant and useful information on the groundwater budget and recharge type . 
+The influence of fault zones and spatial anisotropy of the karst aquifer were simulated on the hydrodynamic model by varying permeability on the x­ and y­axes of the Cartesian coordinate system with respect to the fault , the main pathway of groundwater circulation . 
+Representative hydraulic conductivities were Kx = 2 . 3·10­3 m / s and Ky = 5 . 0·10­3 m / s in the faults of NW to SE direction , and Kx = 2 . 5·10-3 m / s and Ky 1 . 2·10-3 m / s in the faults of SW to NE trend . 
+Model research showed that the karst aquifer can be used in the long term at maximal tested capacities and that current groundwater exploitation is not compromised in dry periods when the water budget depends entirely on recharge from the Sana River . 
+Key words: Triassic carbonate rocks , karst aquifer , spatial anisotropy , hydrodynamic model , karst­alluvial aquifer inter­ relation , groundwater budget . 

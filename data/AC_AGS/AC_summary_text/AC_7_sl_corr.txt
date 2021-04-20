@@ -1,0 +1,14 @@
+Morfološka študija Crvenega jezera v Dinarskem krasu na podlagi terestičnega laserskega skeniranja in sonarnega sistema
+Crveno jezero (Dinarski kras , Hrvaška) je izjemen kraški pojav , po vsem svetu poznan po svoji lepoti in skrajnih globinah . 
+Kljub temu je bilo v zgodovini raziskav Crvenega jezera veliko polemik v sklepih in teorijah o njegovem nastanku , geomorfologiji in hidrologiji . 
+Namen tega dela je podati pregled obstoječih spoznanj o jezeru , kakor tudi predstaviti najnovejše rezultate raziskav , pridobljenih s pomočjo novih tehnologij , ki temeljijo na terestičnega laserskega skeniranja in hidroakustike . 
+Raziskave so potekale septembra 2013 . 
+Nova generacija opreme , razvite za napredovanje geoznanstvenih raziskav , je bila uporabljena med delom na terenu . 
+Zbrani podatki so omogočili temeljito analizo , ki je privedlo do novih pomembnih ugotovitev o Crvenem jezeru . 
+Uporabili smo podvodno vozilo na daljinsko upravljanje (ROV) , opremljeno z imaging sonarjem , ki je prineslo prve hidroakustične raziskave jezera . 
+Nekateri rezultati so potrdili že znane in dobro dokumentirane značilnosti jezera , medtem ko so drugi izpodbijali splošno sprejete predpostavke znanstvene skupnosti in širše javnosti . 
+V raziskavi prvič predstavljamo DEM za Crveno jezero , kar je omogočilo oceno o njegovem obsegu . 
+Za najvišji zabeleženi nivo vode na 311 m nadmorske višine je ocenjena količina shranjene vode 8 , 24 x 106 m3 . 
+Temperaturni profil jezera je bil posnet med delom na terenu in je ponudil vpogled v možno mešanje vode s kraških kanalov , blizu površini vode . 
+Uporaba TLS in ROV sonarnega sistema je precej izboljšal razumevanje morfologije jezera . 
+Ključne besede: Lidar , sonar , Crveno jezero (Hrvaška) , Dinarski kras . 

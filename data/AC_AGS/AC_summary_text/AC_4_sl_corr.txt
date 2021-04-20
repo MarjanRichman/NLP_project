@@ -1,0 +1,10 @@
+Adsorpcijsko obnašanje arzena v kraških podzemnih tokovih in analiza glavnih komponent spremenljivk , ki vplivajo nanj: primer podzemnega toka Lihu , provinca Guangxi , Kitajska
+Arzen (As) je nevaren onesnaževalec , ki ogroža ekološko stanje voda in zdravje ljudi; še posebej v krasu zaradi njegovih edinstvenih hidrogeoloških značilnosti . 
+Z namenom pojasnitve reakcijskih mehanizmov arzena v kraških podzemnih tokovih so bile z uporabo ICP-MS in xRF opravljene fizikalno-kemijske analize kraške vode in sedimentov v podzemnem toku Lihu na jugozahodu Kitajske . 
+Rezultati kažejo , da večino skupnega arzena predstavlja anorganski arzen , organski arzen , vključno z monometil arzenovo kislino (MMA) in dimetil arzenovo kislino (DMA) , pa ni bil zaznan . 
+Zaradi redukcijskega okolja v podzemnem toku prevladuje As(III) , ki predstavlja 53 % anorganskega tipa . 
+Pojavilo se je adsorpcijsko obnašanje arzena in deleži As , As(III) in As(V) so se zmanjšali za 51 % , 36 % in 59 % na 25 , 6 km dolgem podzemnem toku Lihu . 
+Z namenom določitve najpomembnejših faktorjev , ki vplivajo na procese adsorpcije arzena v tej podzemni reki , je bila uporabljena analiza glavnih komponent v SPSS in Minitab . 
+V vodah proučevanega območja sta kalcij in hidrogenkarbonat glavna faktorja , ki vplivata na adsorpcijo arzena , predvsem zaradi visoke vsebnosti kalcija in alkalnosti v kraških vodah . 
+Ta ugotovitev je značilna razlika v primerjavi z raziskovalnimi rezultati za nekraško območje . 
+Ključne besede: kraški podzemni tok , sediment , arzen , faktorji vpliva , analiza glavnih komponent . 
