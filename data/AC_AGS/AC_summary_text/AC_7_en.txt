@@ -1,0 +1,14 @@
+Morphological study of Red lake in Dinaric karst based on terrestrial laser scanning and sonar system
+Red Lake (Dinaric karst, Croatia) is an exceptional karst phenomenon, worldwide known for its beauty and extreme depth.
+Even so, through the history of Red Lake’s research there were many controversies in the conclusions and the theories concerning its genesis, geomorphology and hydrology.
+The aim of this work is to give an overview of existing findings about Red Lake as well as to present the newest research results gained with the help of emerging technologies based on terrestrial laser scanning and hydro acoustics.
+The measuring was conducted during September 2013.
+A new generation of equipment developed to advance the geoscientific research was deployed during the field work.
+The gathered data enabled a thorough analysis which led to new important findings on Red Lake.
+Deployment of Remotely operated underwater vehicle (ROV) equipped with imaging sonar resulted in the first hydro acoustic survey of the lake.
+Some of the results confirmed the already known and well documented characteristics of Red Lake whereas others disputed the widely accepted assumptions in the scientific community and the general public.
+The presented research generated, for the first time, a DEM for Red Lake which allowed a good estimate on the lake’s volume.
+For the recorded maximum water level at 311 m a.s.l. the volume of water stored is 8.24 x 106 m3.
+A temperature profile of the lake was recorded during the field work and it offered an insight on possible water mixing through karst conduits near the surface of the water.
+The application of TLS and ROV sonar systems considerably improved the understanding of Red Lake’s morphology.
+Keywords: Lidar, Sonar, Red Lake (Croatia), Dinaric karst.

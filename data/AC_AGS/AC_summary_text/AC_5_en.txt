@@ -1,0 +1,12 @@
+Quaternary glacial cycles: Karst processes and the global CO2 budget
+Extensive research has been conducted investigating the relationship between karst processes, carbonate deposition and the global carbon cycle.
+However, little work has been done looking into the relationship between glaciations, subsequent sea level changes, and aerially exposed land masses in relation to karstic processes and the global carbon budget.
+During glaciations sea-level exposed the world’s carbonate platforms.
+With the sub-aerial exposure of the platforms, karst processes can occur, and the dissolution of carbonate material can commence, resulting in the drawdown of CO2 from the atmosphere as HCO-.
+Furthermore, the material on the platform surfaces is primarily aragonite which is more readily soluble than calcite allowing karst processes to occur more quickly.
+During glaciations arctic carbonates and some of the temperate carbonates are blanketed in ice, effectively removing those areas from karst processes.
+Given the higher solubility of aragonite, and the extent of carbonate platforms exposed during glaciations, this dissolution balances the CO2 no longer taken up by karst processes at higher latitudes that were covered during the last glacial maximum The balance is within 0.001 GtC / yr, using soil pCO2 (0.005 GtC / yr assuming atmospheric pCO2) which is a difference of <1% of the total amount of atmospheric CO2 removed in a year by karst processes.
+Denudation was calculated using the maximum potential dissolution formulas of Gombert (2002).
+On a year to year basis the net amount of atmospheric carbon removed through karstic processes is equivalent between the last glacial maximum and the present day, however, the earth has spent more time in a glacial configuration during the quaternary, which suggests that there is a net drawdown of atmospheric carbon during glaciations from karst processes, which may serve as a feedback to prolong glacial episodes.
+This research has significance for understanding the global carbon budget during the quaternary.
+Keywords: Karst, Global Carbon Budget, quaternary, Last Glacial Maximum, Carbonate Dissolution.

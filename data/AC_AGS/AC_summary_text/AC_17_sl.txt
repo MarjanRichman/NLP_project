@@ -1,0 +1,16 @@
+Novejši rezultati sledilnih poskusov v zaledju reke Unice (JZ Slovenija)
+Da bi bolje spoznali značilnosti pretakanja voda in prenosa onesnaževal skozi vadozno cono in skozi dobro razvit sistem kraških kanalov v epifreatični in freatični coni v različnih hidroloških pogojih, sta bila v zaledju reke Unice izvedena dva kombinirana sledilna poskusa s fluorescentnimi sledili.
+Sledila so bila injicirana neposredno v ponore in v iztok lovilca olj v kraško površje.
+Pred sledenjem je bila vzpostavljena mreža monitoringa, ki je obsegala merjenje količine padavin, fizikalnih in kemičnih parametrov na izvirih in jamskih vodotokih.
+Za zaznavanje sledil v podzemnih rekah so bili uporabljeni terenski fluorometri.
+Na izvirih je bila uporabljena običajna vzorčevalna tehnika, vzorci pa analizirani v laboratoriju.
+Nekateri rezultati so bili kvantitativno ovrednoteni s pomočjo programa QTRACER2.
+V času prvega sledilnega poskusa, ko je injiciranju sledil padavinski dogodek, je bil tok skozi dobro prevoden jamski sistem hiter, z navideznimi dominantnimi hitrostmi med 88 in 640 m/h.
+Sledilne krivulje so neprekinjene, enotne in z enim vrhom.
+Sledila so se skoraj v celoti povrnila.
+V času drugega sledilnega poskusa, ko je bila gladina podtalnice v nenehnem upadanju, so bile hitrosti pretoka skozi dobro razvite kraške kanale pomembno nižje (navidezne maksimalne hitrosti nižje za 2–4 krat).
+Rezultati kažejo nižjo disperzivnost v času drugega sledilnega poskusa, kar ustreza nižjim hitrostim toka.
+Takrat se je tudi sledilo, injicirano na površje, pokazalo na izvirih s pričakovano zamudo (vdom okoli 9 m/h), njegova krivulja preboja pa nepravilna, raztegnjena in z mnogimi sekundarnimi vrhovi.
+V tem članku so predstavljeni le rezultati sledenj, ki pa so del obsežne raziskave toka podzemne vode skozi kompleksen kraški vodonosnik, katerega cilj je izboljšanje poznavanja kraških vodnih virov, njihove zaščite in upravljanja.
+Predstavljeni rezultati bodo uporabni za nadaljnje podrobne analize, študije in modeliranje.
+Ključne besede: kraški vodonosnik, sledilni poskus, monitoring v jami in na izviru, Postojnski jamski sistem, Planinska jama, kraški izvir Malenščica.

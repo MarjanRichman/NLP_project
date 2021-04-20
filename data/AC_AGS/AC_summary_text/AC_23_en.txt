@@ -1,0 +1,13 @@
+Variation in rates of Karst processes
+The development of karst is not a linear process but instead takes place at irregular rates that typically include episodes of stagnation and even retrograde processes in which the evolution toward maturity is reversed.
+The magnitude and nature of these irregularities differs with the length of time considered.
+Contemporary measurements in caves show fluctuations in dissolution rate with changes in season, discharge, and soil conditions.
+Dissolution is sometimes interrupted by intervals of mineral deposition.
+Observed dissolution rates can be extrapolated to obtain estimates of long-term growth of a solution feature.
+But this approach is flawed, because as the time scale increases, the rates are disrupted by climate changes, and by variations that are inherent within the evolutionary history of the karst feature (e.g., increased CO2 loss from caves as entrances develop).
+At time scales of 105-106 years, karst evolution can be interrupted or accelerated by widespread fluctuations in base level and surface river patterns.
+An example is the relation between karst and the development of the Ohio River valley in east-central U.S.A. At a scale of 106-108 years, tectonic and stratigraphic events cause long-term changes in the mechanism and style of karst development.
+For example, much of the karst in the Rocky Mountains of North America has experienced two phases of pre-burial Carboniferous karst, mineral accretion during deep burial from Permian to Cretaceous, extensive cave development during Paleocene-Eocene uplift, and stagnation and partial mineral deposition caused by late Tertiary aggradation.
+At such large time scales, it is difficult to determine rates of karst development precisely, if at all.
+Instead it is appropriate to divide the evolutionary history into discrete episodes that correlate with regional tectonic and stratigraphic events.
+Key words: Karst evolution, dissolution rates, retrograde processes, paleokarst.

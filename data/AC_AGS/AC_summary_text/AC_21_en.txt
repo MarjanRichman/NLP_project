@@ -1,0 +1,14 @@
+Physical Structure of the Epikarst
+Epikarst is a weathered zone of enhanced porosity on or near the surface or at the soil/bedrock contact of many karst landscapes.
+The epikarst is essentially the upper boundary of a karst system but is also a reaction chamber where many organics accumulate and react with the percolating water.
+The epikarst stores and directs percolating recharge waters to the underlying karst aquifers.
+Epikarst permeability decreases with depth below the surface.
+The epikarst may function as a perched aquifer with a saturated zone that transmits water laterally for some distance until it drains slowly through fractures or rapidly at shaft drains or dolines.
+Stress-release and physical weathering as well as chemical dissolution play a role in epikarst development.
+Epikarst may be found on freshly exposed carbonates although epikarst that develops below a soil cover should form at a faster rate due to increased carbon dioxide produced by vegetation.
+The accumulation of soil within the fractures may create plugs that retard the downward movement of percolating water and creates a reservoir rich in organic material.
+The thickness of the epikarst zone typically ranges from a few meters to 15 meters, but vertical weathering of joints may be much deeper and lead to a “stone forest” type of landscape.
+Some dolines are hydrologically connected directly to the epikarst while other dolines may drain more directly to the deeper conduit aquifer and represent a “hole” in the epikarst.
+Water stored in the epikarst may be lost to evapotranspiration, move rapidly down vertical shafts or larger joints, or drain out slowly through the soil infillings and small fractures.
+Much of the water pushed from the epikarst during storms is older water from storage that is displaced by the new event water.
+Keywords: epikarst, recharge, vadose zone, karst.

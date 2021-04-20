@@ -1,0 +1,208 @@
+Sedimenti v udornicah na Krasu, Slovenija
+IZVLEČEK: V članku je predstavljena podrobno geomorfološka analiza udornic na Krasu v Sloveniji, s posebnim poudarkom na morfogenetskem razvoju njihovih dnov, ki jih prekriva ilovnat sediment.
+Analizirali smo granulometično in mineraloško sestavo ilovnatega sedimenta; globino sedimentnih zapolnitev smo ugotovili z meritvami električne upornosti tal (ERI).
+Obravnavamo procese oblikovanja in preoblikovanja udornic ter različne procese oblikovanja ilovnatih uravnav v dneh udornic.
+Rezultati raziskave so pokazali, da so ilovnate zapolnitve lahko rezultat sedimentacije suspendiranega materiala iz poplavnih vod, ki je zapolnjevala spodnje dele udornic, ali pa ilovica izvira iz pobočij, kjer razpadajo jamski rovi, ki jih zapolnjuje ilovnat material.
+Nekateri sedimenti so bili akumulirani kot eolski material.
+KLJUČNE BESEDE: geografija, kras, udornice, ilovnat sediment, električna prevodnost tal (ERI), Slovenija
+1 Uvod
+Udornice so kotanje na kraškem površju različnih oblik in velikosti.
+Prostornina večjih udornic presega prostornino največjih znanih jamskih dvoran na preučenih območjih, tako da nastanek udornic ne more biti vezan le na procese podiranja jamskih dvoran (Habič 1963; Šušteršič 1973; Stepišnik 2004, Waltham et al; 2005 Stepišnik 2007).
+Njihov nastanek je vezan na koncentrirano spodjedanje materiala tektonsko zdrobljenih con nad aktivnimi jamskimi rovi (Habič 1963; Mihevc 2001; Stepišnik 2004).čeprav so bile udornice navadno opredeljene kot kotanje, ki se oblikujejo izključno z udorom nad jamsko dvorano (Cramer 1941; Gams 1973; Šušteršič 1973, Ford in Williams 1989), k njihovemu razvoju prispevajo tudi drugi speleogenetski procesi odnašanja mase.
+V objavljeni strokovni literaturi najdemo različne morfološke klasifikacije udornic.
+Najpogostejša je preprosta delitev udornic v »mlade« in »zrelo« oziroma »stare« (Habič 1963; Šušteršič 1984; Summerfield 1996, Waltham et al; 2005 Waltham 2006).
+Kljub vsemu je morfologija udornic rezultat ravnotežja med različnimi geomorfnimi procesi, katerih dinamika, obseg in čas trajanja vpliva na njihovo velikost in obliko.
+Zaradi tega klasična delitev, ki ocenjuje njihovo starost na podlagi morfologije, ni primerna.
+V dneh udornic delujejo različni procesi katerih rezultat je različna oblikovanost njihovih dnov.
+V primeru da je v udornicah prisoten proces odnašanja materiala nad aktivnimi jamskimi rovi so dna skalnata z lijakastimi kotanjami v akumuliranem pobočnem materialu. če je proces odnašanja materiala zanemarljiv ali odsoten se bodo oblikovala skledasta dna zapolnjena z drobnejšimi frakcijami preperele matične kamnine, najpogosteje prekrite s prstjo.
+V dnu udornic je pogosto ilovnat material.
+V primeru da so dna v bližini piezometričnega nivoja so spodnji deli udornic stalno ali občasno zapolnjeni z vodo, ali pa je v dneh prisoten aktivni vodni tok.
+V večini primerov so dna takšnih udornic poplavljena le občasno, ob višjih piezometričnih nivojih. če poplavne vode vsebujejo večje količine suspendiranega gradiva, se bo le ta sedimentiral v stoječem vodnem telesu v dneh udornic.
+Ob sledečih poplavah se bodo v dnu sedimentirale dodatne plasti ilovnatega materiala.
+Končni rezultat tovrstne sedimentacije je oblikovanje ravnih ilovnatih dnov udornic (Stepišnik 2003; Stepišnik 2007).
+Pojavljanje ravnih dnov udornic na enakih nadmorskih višinah je posledica sedimentacije suspendiranega materiala iz poplavnih vod, ki so zapolnjevale spodnje dele sosednjih udornic ob istih poplavnih dogodkih (Stepišnik 2004; Stepišnik 2007). če so dna, zapolnjena z ilovnatim materialom, več deset ali sto metrov nad piezometrično ravnijo, se gradivo ni moglo odložiti ob poplavah.
+V večini primerov je to spran pobočni material iz ilovnatih zaplat v pobočjih udornic.
+Glinene zaplate na pobočjih udornic so rezultat razpada jamskih rovov na pobočjih, ki so zapolnjeni z ilovnatim materialom, (Stepišnik 2007).
+V članku so podrobneje predstavljene geomorfne analize udornic na Krasu s poudarkom na morfogenetskem razvoju njihovih dnov.
+Raziskava je vključevala geomorfološko kartiranje vseh udornic na Krasu, kot tudi granulometrično in petrološko analizo ilovnatega materiala iz dnov udornic.
+Zgradba udornic pod površjem je bila ugotovljena z meritvami električne upornosti tal (ERI) in z interpretacijo rezultatov meritev.
+Podatki podpovršinske zgradbe so bili pridobljeni z merilcem električne upornosti tal SuperSting R1/IP.
+Predhodne aplikacije metode električne upornosti tal na različnih delih slovenskega krasa so pokazale, da električna upornost karbonatne kamnine presega 1000 ohm-m.
+Prst in preperela matična kamnina ima električno upornost med 200 in 1000 ohm-m.
+Ilovnat material ima električno upornost nižjo od 150 ohm-m (Stepišnik 2007; Stepišnik in Mihevc 2008, Stepišnik, 2009).
+2 Udornice na Krasu
+Kras je apnenčasta planota nad Tržaškim zalivom v severnem Jadranskem morju.
+Razteza se v dinarski smeri (severozahod–jugovzhod); je 40 km dolga in 14 km široka pokrajina, ki pokriva okoli 440 km2.
+Fiziografsko je dobro ločena od okoliških območij.
+Nižje flišnih regije in Jadransko morje ga obdajajo iz jugozahoda in severovzhoda.
+Na severozahodu ga obdaja naplavna ravnica reke Soče.
+Jugovzhodna meja Krasa je mogoče opredeliti s flišnimi Brkini in dolino reke Reke.
+Na splošno lahko predelimo Kras kot antiklinalo iz apnencev in dolomitov, ki se dviga nad dvema flišnima sinklinalama: sinklinala Vipavske doline in sinklinala Tržaškega zaliva.
+Močnejša tektonska linija, imenovana Divaški prelom, poteka preko kras v dinarski smeri in ga deli skoraj na polovico.
+Kras je območje pretočnega krasa.
+V grobem je celoten Kras hidrološko zaledje reke Timave.
+Največji ponor alogenega toka v kras je Reka na jugovzhodu, medtem ko so mnogi manjši ponori manjših alogenih tokov prisotni na skrajnem vzhodnem in severnem delu.
+Večina podzemnih tokov se pretaka južno od Divaškega preloma, od ponorov Reke v smeri izvirov na severozahodu.
+Udornice so na celotnem Krasu.
+Glede na prostorsko razdelitev, morfologijo in aktivne geomorfne procese v njih jih lahko razdelimo na štiri skupine: udornice na Divaškem Krasu, udornice na Sežansko-Nabrežinskem ravniku, udornice severno od Divaškega preloma ter udornice na Taborskih brdih in Gabrku.
+2.1 Udornice na Divaškem krasu
+Divaški kras je na jugovzhodnem delu Krasa v zaledju ponorov reke Reke, v okolici Divače.
+Matična kamnina na območju so debeloskladoviti kredni apnenci.
+Divaški kras leži severozahodno od stika z eocenskimi fliši.
+Na koncu obsežne slepe doline na vzhodnem obrobju Divaškega krasa ponira Reka v škocjanske jame.
+Površje Divaškega krasa je v grobem uravnano na nadmorski višini 430 m in je razčlenjeno s številnimi vrtačami, udornicami in brezstropimi jamami.
+Na površju je 27 velikih udornic, ki imajo skupno prostornino več kot 41 Mm3.
+Njihova povprečna globina je okoli 45 m in povprečni premer je 270 m.
+Njihova površina je 1,5 km2.
+Udornice na tem območju so različnih oblik.
+Večina njihovih pobočij je uravnoteženih, a so v njih pogoste tudi obsežne stene in melišča.
+Razen v Veliki in Mali dolini, ki sta neposredno nad škocjanskimi jamami, kjer se podzemni vodni tok reke Reke ponovno pojavi na površju, imajo vse ostale udornice dna zapolnjena in uravnana z ilovnatim materialom.
+Petrološka analiza peščene frakcije je dokazala, da so v sedimentu minerali flišnega izvora: roženec, limonit, kremenov peščenjak in sljuda.
+Granulometrična analiza sedimenta je pokazala, da ilovnat sediment vsebuje delce velikosti melja in gline.
+Več sosednjih udornic ima uravnana ilovnata dna na enakih nadmorskih višinah.
+Na Divaškem krasu lahko nekatera uravnana dna razporedimo v dva izrazita višinska nivoja.
+Udornice na južnem delu območja, v okolici Sokolaka, imajo dna na nadmorskih višinah med 350 in 360 m.
+Dna v severni skupini udornic, med udornicama Sapendol in Lazni dol, so na nadmorskih višinah med 415 in 433 m.
+Primerljive nadmorske višine uravnanih dnov udornic so posledica sedimentacije drobnih delcev flišnega izvora iz stoječe vode, ko je ob višjih piezometričnih nivojih, ko dna udornic poplavljena.
+Tipičen primer udornice na južnem delu območja je Sokolak, ki se nahaja približno 650 m jugozahodno od ponora reke Reke.
+Sokolak je sestavljen iz dveh podolgovatih udornic, razpotegnjenih v smeri sever–jug.
+Zahodna udornica ima dolžino 470 m in širino 230 m, povprečna globina je 63 m.
+Vzhodna udornica ima dolžino 540m in širino 230m.
+Povprečna globina je 66m.
+Prostornina obeh udornic je 6,86Mm3.
+Na južnih pobočjih udornice so strme stene z obsežnim meliščem pod njimi.
+Ostala pobočja so večinoma uravnotežena in jih prekrivajo škraplje.
+Dna obeh udornic sta uravnana z ilovnatim materialom.
+Zahodni del udornice je uravnan na 350 m nadmorske višine in vzhodni del na 357 m.
+Nadmorski višini obeh uravnav se ujemata z nadmorskimi višinami dnov nekaterih okoliških udornic, ki so razporejena med 350 in 360 m nadmorske višine.
+Meritvi električne upornosti tal sta bili opravljeni v vzhodnem delu udornice.
+Profil 1, ki je bil izmerjen v vznožju južnega pobočja (smer 30° z razdaljo med elektrodami 5 m), je pokazal, da imajo živoskalna apnenčasta pobočja, ki jih ne prekriva prst ali vegetacija, električno upornost višjo od 1000 ohm-m.
+Na vznožju pobočja je v dnu udornice obsežno ilovnato polnilo, ki ima električno upornost manjšo od 150 ohm-m, prekrito z apnenčastim gruščem, ki ima električno upornost med 150 in 1000 ohm-m.
+Profil 2 je bil izmerjen pravokotno na daljšo os udornice v smeri 120° z enako razdaljo med elektrodami.
+Tukaj imajo živoskalna pobočja električno upornost višjo od 1000 ohm-m, prekriva jih plitva prst in preperela kamnina z električno upornostjo do 500 ohm-m.
+V osrednjem delu profila je dno uravnano z ilovnatim sedimentom, ki ima električno upornost manjšo od 150 ohm-m, in zapolnjuje udornico vsaj 23 m globoko.
+Lazni dol pripada severni skupini udornic.
+Leži 1500 m severozahodno od ponora reke Reke.
+Je razpotegnjen v smeri severozahod–jugovzhod smeri z dolžino 280 m in širino 220 m.
+Povprečna globina udornice je 24 m in prostornina okoli 0,5 Mm3.
+Pobočja so uravnotežena, prekrita s škrapljami, in imajo naklon do 17°.
+Dno udornice je obsežna ilovnata uravnava, dolga 220 m.
+Najnižji del dna je na nadmorski višini 424 m.
+Nadmorska višina dna se ujema z nadmorskimi višinami okoliških udornic v severnem delu Divaškega krasa, ki so na nadmorski višini med 415 in 433 m.
+V Laznem dolu sta bili opravljeni dve meritvi električne upornosti tal.
+Profil 1, v dnu udornice v smeri 135°, je pokazal, da del spodnji del živoskalnega pobočja prekriva plitva plast prsti in preperela kamnina z električno upornostjo med 200 in 1000 ohm-m.
+Ilovnat sediment, ki zapolnjuje dno udornice ima električno upornost manjšo od 150 ohm-m.
+Apnenčasta matična kamnina, ki je pod pobočnim materialom in delom ilovnatega dna, ima električno upornost višjo od 1000 ohm-m.
+V osrednjem delu udornice materiala z večjo električno prevodnostjo večja od 25 m.
+Profil 2 je bil izmerjen v smeri 225°.
+Pokazal je, da je debelina ilovnate zapolnitve v dnu udornice, ki ima električno upornost manjšo od 150 ohm-m, večja od 28 m.
+2.2 Udornice na Sežansko-Nabrežinskem ravniku
+Sežansko-Nabrežinski ravnik leži jugozahodno od Divaškega preloma.
+Geološko ga lahko opredelimo kot jugozahodno krilo antiklinale Krasa, ki ga gradijo predvsem kredni apnenci in dolomiti, in je na jugu omejeno z flišem.
+Kraško površje je v grobem uravnano, prekrito z mnogimi vrtačami, udornicami in brezstropimi jamami, ter se postopoma znižuje od 350 m nadmorske višine pri Sežani do 150 m nadmorske višine na severozahodu.
+Pod površjem je podzemni tok reke Reke, ki teče v smeri severozahoda proti izvirom Timave.
+Na površju je 24 velikih udornic s skupno prostornino več kot 38,1 Mm3.
+Njihova povprečna globina je okoli 33 m, povprečni premer pa 248 m.
+Njihova površina je 2,2 km2.
+Največja udornica na območju se imenuje Senik in presega prostornino 9,8 Mm3.
+V grobem imajo udornice na tem območju enotno morfologijo.
+Večina udornic ima uravnotežena pobočja in samo nekatere imajo večje stene in melišča.
+Nekatera pobočja so pokrita z zaplatami ilovnatega materiala.
+Na teh zaplatah so oblikovani erozijski jarki, ki se iztečejo v manjše vršaje v dneh udornic.
+Zaplate ilovnatega materiala prekrivajo tudi dna udornic, a so bistveno manjše kot na Divaškem krasu.
+Petrološka analiza peščene frakcije v sedimentu pokazala, da so v ilovici prisotni minerali flišnega izvora.
+Granulometrična analiza sedimenta je pokazala, da ilovico gradijo predvsem delci velikosti melja in gline.
+Tipični primer udornice tega območja je Sežanski dol, ki leži južno od Sežane.
+Njena dolžina je 230 m in širina 166 m.
+Povprečna globina je 28 m, prostornina pa 0,42 Mm3.
+Severna in severovzhodna pobočja udornice so uravnotežena.
+Druga pobočja so stenasta, z melišči pod stenami.
+Južno pobočje je prekinjeno z obsežnim jarkom, ki ga zapolnjuje ilovnat material in kosi sige.
+Jarek je razpadel jamski rov v pobočju udornice.
+V udornici sta bila izmerjena dva profila električne upornosti tal.
+Profil 1 v dnu udornice je bil izmerjen v smeri 270°.
+Meritev je pokazala, da so spodnji deli pobočij prekriti s plitvo plastjo prsti in preperele kamnine z električno upornostjo med 200 in 1000 ohm-m.
+Ilovnat material, ki zapolnjuje udornico, ima električno upornost do 150 ohm-m.
+Apnenčasta matična kamnina, ki leži pod pobočnim materialom, ima električno upornost višjo od 1000 ohm-m.
+V osrednjem delu udornice debelina ilovnatega materiala presega 20 m.
+Profil 2 je bil izmerjen pravokotno na smer jarka na južnem pobočju udornice.
+Smer profila je 270°.
+Meritev je pokazala, da je jarek, ki je ki je nastal z razpadom jamskega rova, je zapolnjen z ilovnatim materialom z električno prevodnostjo manj kot 150 ohm-m. širina ilovnate zapolnitve je približno 25 m in globina vsaj 10 m.
+2.3 Udornice severno od Divaškega preloma
+Skoraj polovica Krasa leži severno od Divaškega preloma.
+Matična kamnina na območju so predvsem kredni apnenci z roženci.
+Hidrološko je to območje brez večjih znanih koncentriranih podzemnih vodnih tokov, saj le manjši potoki na severu in severozahodu ponikajo in teče v smeri izvirov Timave.
+Površje je v grobem uravnano in ima 270 m nadmorske višine na jugovzhodu, ter se postopoma znižuje proti severozahodu do nadmorske višine okoli 170 m.
+Uravnano površje prekrivajo mnoge vrtače, brezstrope jame, udornice in suhe doline ter manjši grebeni na severni in vzhodni strani območja.
+Na območju je 36 velikih udornic s skupno prostornino več kot 45,6 Mm3.
+Njihova povprečna globina je okoli 32 m, srednji premer je 274 m.
+Pokrivajo območje veliko 2,3 km2.
+Vse udornice na tem območju so čisto preoblikovane, saj niti ena nima stenastih pobočij in nikjer ni sledov delujočega podzemnega spodjedanja materiala nad aktivnimi jamskimi rovi.
+Vsa pobočja so uravnotežena inprekrita predvsem s škrapljami.
+Na pobočjih so včasih prisotne tudi vrtače.
+Na pobočjih udornic so pogosti erozijski jarki na zaplatah ilovnatega materiala v katerih se spira material proti dnu.
+Dna udornic so navadno velike ilovnate uravnave.
+Glede na meritve električne upornosti tal so ilovnate zapolnitve le nekaj metrov globoke, pod njimi pa leži karbonatna matična podlaga.
+Torej so te udornice skledaste živoskalne kotanje, ki imajo dna zapolnjena in uravnana z ilovnatimi zapolnitvami.
+Granulometrična analiza sedimenta je pokazala, da ilovico, ki zapolnjuje dna udornic, gradijo predvsem delci velikosti melja in gline.
+Petrološka analiza peščene frakcije v sedimentu pokazala, da so v ilovici prisotni minerali flišnega izvora.
+Zajčnik je tipičen primer udornice te skupine.
+Leži 5 km jugozahodno od vasi Štanjel.
+Udornica je okrogle oblike s premerom okoli 230 m in globino 21 m ter prostornino 0,42 Mm3.
+Vsa pobočja udornice so popolnoma uravnotežena in delno prekrita s škrapljami.
+Dno udornice je uravnano, okoli 40 m široko in zapolnjeno z ilovnatim materialom do nadmorske višine 222 m.
+Profil električne upornosti tal v udornici Zajčnik je bil izmerjen preko uravnanega dna v smeri 35°.
+Meritev je pokazala, da je spodnji del živoskalnih pobočij prekrit z plitvo plastjo in preperelo matično kamnino, ki ima električno upornost med 200 in 1000 ohm-m.
+Zapolnitev ilovnatega sedimenta v dnu udornice ima električno upornost manjšo od 150 ohm-m.
+Apnenčasta matična podlaga pod pobočnim materialom in pod ilovnato zapolnitvijo v dnu ima električno upornost višjo od 1000 ohm-m.
+V osrednjem delu udornice je debelina ilovnatega materiala okoli 15 m.
+2.4 Udornice na Taborskih brdih in Gabrku
+Taborska brda in Gabrk sta grebena na jugovzhodnem delu Krasa.
+Potekata v smeri severozahoda in sta okoli 200 m višja od okoliškega kraškega površja.
+Sestavljena sta iz apnenca in dolomita kredne starosti.
+Površje obeh grebenov prekrivajo kopasti vrhovi, številne vrtače in udornice.
+Na obeh grebenih je 9 udornic.
+Njihova skupna prostornina je približno 3,2 Mm3, povprečna globina je okoli 28m in povprečni premer pa 200 m.
+Njihova površina je 0,2 km2.
+Imajo zelo različne oblike, najpogostejša so uravnotežena pobočja in erozijski jarki na njih.
+Dna udornic te skupine so uravnana in zapolnjena z ilovnatim materialom.
+Te udornice so morfološko najbližje udornicam severno od Divaškega preloma.
+Granulometrična analiza sedimenta je pokazala, da ilovico ki zapolnjuje dna udornic sestavljajo predvsem delci velikosti melja in gline.
+Petrološka analiza peščene frakcije v sedimentu pokazala, da so v ilovici prisotni minerali flišnega izvora.
+Drobna kremenova zrna peščene frakcije na površinah kažejo sledove vetrne abrazije.
+Najbolj značilen primer udornice na tem območju je Dol Lipovnik, ki je skoraj na vrhu grebena Taborskih brd okoli 1,5 km jugovzhodno od Sežane.
+Dolžina udornice je 290 m, širina 250 m in povprečno globina 43 m.
+Prostornina udornice je 1,24 Mm3.
+V zgornjih delih vzhodnega in zahodnega pobočja so stene z melišči v njihovem vznožju.
+Druga pobočja so uravnotežena in prekrita s posameznimi škrapljami.
+Dno udornice je uravnano na nadmorski višini 443 m.
+Premer uravnanega dna je 140 m.
+Profil električne upornosti tal v udornici Dol Lipovnik je bil izmerjen v preko uravnanega dna v smeri 150°.
+Meritve so pokazale, da so spodnji deli živoskalnih pobočij prekriti z plitvo plastjo prsti in preperele matične kamnine z električno upornostjo med 200 in 1000 ohm-m.
+Zapolnitev ilovnatega materiala v dnu udornice ima električno upornost do 150 ohm-m.
+Apnenčasta matična kamnina pod pobočnim materialom in ilovnatim materialom v dnu udornice ima električno upornost večjo od 1000 ohm-m.
+Globina ilovnate zapolnitve je približno 20 m.
+V osrednjem delu pa debelina ilovnate zapolnitve presega 25 m.
+3 Sklep
+Raziskava udornic na Krasu, ki so predstavljene v tem članku kaže, da je sediment v dneh udornic različnega izvora. čeprav so mehanizmi sedimentacije različni, vedno oblikujejo relativno enotna uravnana dna.
+Ilovnat material popolnoma zapolnjuje prvotna dna udornic.
+Metoda električne upornosti tal je bila uporabljena za ugotavljanje debeline sedimentov v dneh udornic.
+Meritve so pokazale, da električna upornost karbonatne matične kamnine presega 1000 ohm-m.
+Ilovnat material ima električno upornost nižjo od 150 ohm-m.
+Električna upornost prsti, preperele kamnine in melišč je med 250 in 1000 ohm-m.
+Zaradi odsotnosti vode imajo aktivna pobočja z melišči, ki so brez prsti in vegetacije, električno upornost višjo od 1000 ohm-m.
+V vseh proučevanih udornicah lahko jasno ločimo pobočja od dnov.
+Pobočja gradi matična kamnina z visoko električno upornostjo, ki jih pogosto prekriva plast preperele matične kamnine in prsti z manjšo električno upornostjo.
+Na dneh so debele zapolnitve ilovnatega materiala in zaplate pobočnega materiala v vznožju aktivnih pobočij.
+Ilovnat material, ki zapolnjuje dna udornic, je flišnega izvora, ki se je akumuliral z različnimi mehanizmi.
+Na pobočjih nekaterih udornic so sledovi razpadlih jamskih rovov, ki jih zapolnjuje ilovnat material in siga.
+Na teh zaplatah neprepustnega sedimenta deluje površinski odtok padavinske vode, kar je oblikovalo erozijske jarke.
+Pod erozijskimi jarki so se v dneh udornic oblikovali manjši vršaji.
+Ta mehanizem sedimentacije ilovnatega materiala je bil aktiven v večini udornic in je prevladujoč mehanizem dotoka ilovnatega materiala v udornice severno od Divaškega preloma ter v udornice na Sežansko-Nabrežinskem ravniku.
+Drugi mehanizem akumulacije materiala flišnega izvora je prisoten na ponornem Divaškem krasu, ki je ponorni tip kontaktnega krasa.
+Podobne nadmorske višine dnov udornic dokazujejo, da je bil proces, ki je povzročil sedimentacijo, aktiven na večjem območju v več udornicah hkrati.
+Sedimentacija ilovnatega sedimenta v dneh udornic je rezultat nihanja vodostaja reke Reke in posledičnega poplavljanja v Divaškem krasu.
+V dneh udornic, ki so segala pod zgornji nivo poplavnih vod, ki so prinašala ilovnat sediment, so se oblikovale uravnave.
+Nekatera drobna kremenova zrna iz dnov udornic na površinah kažejo sledove vetrne abrazije.
+Območje Krasa je pod vplivom močnih vetrov – Burje iz smeri severovzhoda, kjer leži flišna Vipavska dolina.
+Manjša količina sedimenta je morala biti v udornice prinesena tudi kot eolski sediment.

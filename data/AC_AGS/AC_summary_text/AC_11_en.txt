@@ -1,0 +1,8 @@
+Supportive methods for assessing effective porosity and regulating karst aquifers
+Regulation of a karst aquifer implies engineering interventions designed to control its flow and manage its water reserves.
+One of the most important prerequisites for the feasibility and success of regulation projects is proper assessment of aquifer effective porosity (storativity) and accumulated groundwater reserves.
+This paper is focused on several specific methods which can contribute to a reliable assessment of the size and volume of effective storage in karst: cave diving survey, camera logging of cavities, stochastic analysis of discharge regime and 3D modelling of karst interior.
+The application of these methods on selected test sites in Montenegro, Algeria and Serbia are described.
+These methods were applied as part of the research programme conducted in the catchment of Mlava Spring, the largest spring in the Carpathian karst of Serbia.
+The results obtained by the stochastic analyses of the spring’s discharge regime, as well as siphon diving of the spring and 3D modelling for reconstruction of conduits networks in karst interior are particularly important.
+Keywords: karst aquifer regulation, effective porosity, cave diving, camera recording, stochastic analysis, 3D conduits modelling.

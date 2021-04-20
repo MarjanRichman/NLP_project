@@ -1,0 +1,8 @@
+The creation of collapse dolines: A 3D modeling approach
+We present a 3D numerical karst evolution model describing mechanisms governing the evolution of collapse dolines.
+The results confirm the current state of the art of the knowledge about the conditions necessary for a collapse doline to grow.
+We demonstrate that these geological features develop in karst aquifers, above subsurface rivers flowing through active cave systems or mechanically unstable zones.
+The mechanisms of growth of single/isolated collapse dolines are generally two dimensional and can be modeled with very dense numerical models.
+On the other hand, our results demonstrate that there can be more than one location, within a karst system, where the conditions allow the development of a collapse doline.
+For such complex scenarios a 3D modeling approach and a detailed knowledge of the hydro-geological situation is required in order to correctly predict and describe the development of collapse dolines.
+Keywords: Three-dimensional, Karst, Modeling, Doline, Limestone.

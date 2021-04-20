@@ -1,0 +1,217 @@
+Sediments in collapse dolines on the Kras plateau, Slovenia
+ABSTRACT: The article presents a detailed geomorphological analysis of collapse dolines on the Kras plateau in Slovenia with particular stress on the morphogenetic development of their floors covered with loamy sediment.
+Granulometric and mineral composition of the loamy sediment were analysed and the depths of sediment fills were established with electrical resistivity imaging (ERI).
+Collapse doline development and transformation processes are discussed, and various formation mechanisms of flat loamy doline floors are considered in the article.
+The results of the study revealed that loamy fills may represent sedimentation of suspended material from floodwaters that inundated the lower parts of the collapse dolines, or could have originated in now-demolished cave passages on the slopes that were filled with finer material.
+Some sediment has been accumulated as an aeolian deposit.
+KEYWORDS: geography, karst, collapse doline, loamy sediment, electrical resistivity imaging (ERI), Slovenia
+1 Introduction
+Collapse dolines are surface karst depressions of varied shape and size.
+Volumes of larger collapse dolines exceed the volumes of the largest known cave chambers in the area, so collapse doline formation cannot be related solely to collapse processes of cave chambers (Habič 1963; Šušteršič 1973; Stepišnik 2004; Waltham et al.
+2005; Stepišnik 2007).
+Their origin is related to the concentric removal of material of tectonically fractured carbonate bedrock above active cave passages (Habič 1963; Mihevc 2001; Stepišnik 2004).
+Although collapse dolines have commonly been defined as depressions that are formed solely by collapse above cave chambers (Cramer 1941; Gams 1973; Šušteršič 1973, Ford and Williams 1989), a variety of speleogenetic mass removal processes contributes to their development.
+Several morphological classifications of collapse dolines have appeared in published karstological literature.
+The most common is the simple subdivision of collapse dolines into »immature« and »mature« or »degraded« (Habič 1963; Šušteršič 1984; Summerfield 1996, Waltham et al.
+2005; Waltham 2006).
+However, collapse doline morphology is a result of the establishment of a balance between various geomorphic processes, whose dynamics, extent and duration inside the collapse dolines influence their size and shape.
+Because of this, the classical view of collapse dolines, which estimates their age on the basis of their general morphology, is not appropriate.
+Collapse doline floors are subjected to a number of processes that result in the development of a variety of floor morphologies.
+If constant removal of material occurs in collapse dolines above active cave passages, the floors are rocky with funnel-shaped depressions in accumulated talus.
+If the process of material removal is negligible or absent, the floors are bowl-shaped and are filled with the finer fractions of weathered bedrock, commonly covered with soil.
+Loamy material is common on the floors of collapse dolines.
+If the floor is close or in the piezometric level, the lower parts of the collapse dolines are permanently or periodically filled with water, or active water flow is present.
+In most cases the floors of such collapse dolines are flooded only periodically, during higher piezometric levels.
+If floodwaters contain significant suspended load, sediment will eventually be deposited from a stagnant water body in collapse doline floors.
+Each ensuing flood will result in deposition of additional loamy sediment layers on the floor.
+The ultimate outcome of such sedimentation is the establishment of flat, loamy floors in collapse dolines (Stepišnik 2003; Stepišnik 2007).
+The occurrence of flat collapse doline floors at similar elevations is a result of sedimentation of suspended material from floodwaters that inundated the lower parts of several neighbouring collapse dolines at the same flooding events (Stepišnik 2004; Stepišnik 2007).
+If their floors, filled with loamy material, are positioned tens or hundreds of meters above piezometric level, it is impossible for that material to originate from floodwaters.
+In most cases it is a washed slope-material from loamy patches.
+The loamy material on the slopes originated from now-demolished cave passages which used to be completely filled with loamy material (Stepišnik, 2007).
+This article focuses on a detailed geomorphic analysis of collapse dolines on the Kras plateau with particular stress to morphogenetic development of their floors.
+The research included geomorphological mapping of all collapse dolines on the Kras plateau as well as granulometrical and petrological analyses of loamy sediment from the collapse doline floors.
+The subsurface structure of the doline floors was established using Electrical Resistivity Imaging (ERI) techniques, with subsequent interpretation of the ERI data.
+A SuperSting R1/IP earth resistivity meter was used for subsurface data collection.
+Previous application of ERI method in various karst surface features on Slovenian karst revealed that the resistivity value for carbonate rock exceeds 1000 ohm-m.
+For soil and weathered bedrock, the resistivity values are approximately between 200 and 1000 ohm-m.
+Loamy material has resistivity values lower than 150 ohm-m (Stepišnik 2007; Stepišnik and Mihevc 2008, Stepišnik, 2009).
+2 Collapse dolines on the Kras plateau
+Kras is a limestone plateau situated above Trieste bay in the northern Adriatic Sea.
+It stretches in Dinaric (northwest–southeast) direction; it is 40 km long and 14 km wide and covers about 440 km2.
+It is physiographically well individualized among the surrounding regions.
+Lower flysch regions and Adriatic Sea bound it from southwest and northeast.
+To the northwest it is surrounded by alluvial Isonzo (river Soča/Isonzo) plain.
+Southeast border of Kras can be well defined by flysch Brkini hills and river Reka valley.
+In general, the Kras plateau is an anticline of Cretaceous limestone and dolomite rising above two flysch synclines: syncline of the Vipava valley and syncline of the Trieste bay.
+One major tectonic line named the Divača fault zone is dissecting the Kras almost in half in Dinaric direction.
+The Karst plateau is a trough-flow karst.
+In general, it is a hydrologic hinterland of karstic springs of Timava River.
+The biggest ponor of alogenic flow to the Kras is Reka River in the southeast, while smaller ponors are also present on the eastern margin and in the north where a number of smaller flows sink.
+Majority of the subsurface flow is directed south of the Divača fault zone from ponors of the Reka River towards springs northwest.
+Collapse dolines are situated all over the Kras plateau.
+According to the spatial distribution, morphology and active geomorphologic processes, they can be divided into four groups: collapse dolines of the Divača karst, collapse dolines of the Sežansko-Nabrežinski ravnik, collapse dolines north of the Divača fault zone and collapse dolines of Taborska brda and Gabrk.
+2.1 Collapse dolines of the Divača karst
+The Divača karst is situated in south east part of the Kras between the hinterland of river Reka ponor and about town of Divača.
+The bedrock in the area comprises thick bedded Cretaceous limestone.
+The Divača karst is positioned northwest of the contact with Eocene flysch bedrock.
+At the end of extensive blind valley on the eastern flank river Reka sinks into cave system Škocjanske jame.
+Surface of the Divača karst is mainly planated at elevation 430 m and is dissected by numerous dolines, collapse dolines and denuded caves.
+On the surface are 27 large collapse dolines having an overall volume of more than 41 Mm3.
+Their mean depth is about 45 m and mean diameter is 270 m.
+They cover an area of 1,5 km2.
+The collapse dolines vary in their morphology.
+Most of their slopes are balanced but extensive rocky walls and scree also occur.
+Except Velika dolina and Mala dolina, situated directly above Škocjanske jame where underground flow of river Reka reappears on the surface, all collapse dolines have inundated floors levelled by loamy deposits.
+Petrological analysis of the sandy fraction in the sediment revealed that the loam contains minerals of flysch origin: chert, limonite, quartz sandstone and mica.
+Grain-size analysis of the sediment showed that the loam comprises mainly clay and silt size particles.
+Several neighbouring collapse dolines have flat loamy floors at the same elevations.
+In the Divača karst some of the collapse doline floors fall into groupings at two general levels.
+Those in the southern side near Sokolak lie at elevations between 350 and 360 m.
+The floors in the northern group of collapse dolines between Sapendol and Lazni dol are at elevations between 415 m and 433 m.
+Comparable floor level elevations inside many collapse dolines are the result of sedimentation of fine flysch derived particles from stagnant water during higher piezometric levels when floodwater inundated floors of the collapse dolines.
+Typical example of a collapse doline form the southern group is Sokolak which is located some 650 m southwest from river Reka ponor.
+Sokolak consists of two elongated collapse dolines stretching in north-south direction.
+Western collapse doline has longer diameter 470 m and shorter 230 m with average depth 63 m.
+Eastern collapse doline has longer diameter 540 m and shorter 230 m.
+Average depth is 66 m.
+Volume of both collapse dolines is 6.86 Mm3.
+The slopes of the collapse doline in the southern part are steep rocky walls with extensive scree at the foot.
+Other slopes are mostly balanced and are covered with grikes.
+Floors of the dolines are flattened with loamy material.
+The western side of the doline is flattened on elevation 350 m and the eastern side is on elevation 357 m.
+Elevation of their floor corresponds to the elevation of several surrounding collapse doline floors on level between 350 m and 360 m.
+Both ERI surveys were conducted in the eastern part of the collapse doline.
+ERI profile 1 at the foot of the southern slope (direction 30° with 5 m electrode pair spacing) revealed that its limestone scree slopes, which are not covered with soil or vegetation, have resistivity values higher than 1000 ohm-m.
+At the foot of the slope there is an extensive loamy fill in the collapse doline floor with resistivity value below 150 ohm-m, covered with limestone rubble with resistivity value between 150 and 1000 ohm-m.
+ERI profile 2 was conducted transversely to the elongated collapse doline floor in direction of 120° with the same electrode spacing.
+Here, bedrock slopes with resistivity values higher than 1000 ohm-m are covered with thin layer of less resistant soil and weathered rock with resistivity value up to 500 ohm-m.
+In the central part of the profile, the floor is flattened with loamy sediment with resistivity value lower than 150 ohm-m that fills the bottom of the doline up to the depth at least 23 m.
+Lazni dol belongs to the northern group of collapse dolines.
+It is situated 1500 m northwest from river Reka ponor.
+It is elongated in northwest–southeast direction with longer diameter 280 m and shorter diameter 220 m.
+Average depth of the doline is 24 m and its volume amounts to 0,5 Mm3.
+The slopes are balanced, covered with grikes with inclination up to 17°.
+The floor of the doline is an extensive loamy flat surface with longer diameter reaching 220 m.
+The lowest section of the floor is at the elevation of 424 m.
+Elevation of the floor corresponds to the elevation of several surrounding collapse doline in the northern part of the Divača karst which have floors on level between 415 m and 433 m.
+Two ERI surveys were conducted in Lazni dol.
+ERI profile 1 in the doline floor in direction of 135° revealed that lower section of its bedrock slopes is covered with a thin layer of less resistant soil and weathered rock with resistivity values ranging between 200 and 1000 ohm-m.
+The infill of the loamy material in the doline floor has resistivity values up to 150 ohm-m.
+Limestone bedrock underlying the slope material and parts of the loamy sediment floor infill has resistivity values higher than 1000 ohm-m.
+In the central part of the doline, the thickness of the more conductive material exceeds 25 m.
+ERI profile 2 in the direction of 225°.
+It revealed that floor of the doline is inundated with over 28 m of loamy material with resistivity value lower than 150 ohm-m.
+2.2 Collapse dolines on the Sežansko-Nabrežinski ravnik
+The area of Sežansko-Nabrežinski ravnik lies southwest of the Divača fault zone.
+Geologically, it is south-west dip of the Kras anticline which consists mostly of Cretaceous limestone and dolomite and is limited towards southwest by flysch.
+It is mostly planated karst surface which is gradually lowering from 350 m around Sežana to about 150 m in the northwest, dissected by numerous dolines, collapse dolines and denuded caves.
+This is an area of the subsurface Reka River flow towards northwest and the springs of Timava River.
+On the surface there are 24 large collapse dolines with an overall volume of more than 38.1 Mm3.
+Their mean depth is about 33 m, mean diameter is 248 m.
+They cover an area of 2.2 km2.
+The biggest collapse doline, Senik, exceeds 9.8 Mm3 in volume.
+In general, collapse dolines of this area have uniform morphology.
+Most of the collapse dolines have balanced slopes and only some exhibit extensive rocky walls and scree.
+Some of the slopes are covered with patches of loamy material.
+These patches are dissected with gullies which continue into small alluvial fans on the doline floor.
+Patches of the loamy sediment are also present on the floors; however, here they are distinctly smaller than in the Divača Karst.
+Petrological analysis of the sandy fraction in the sediment revealed that the loam contains minerals of flysch origin.
+Grain-size analysis of the sediment revealed that the loam comprises mainly clay and silt size particles.
+A Typical example of this collapse dolines group is Sežanski dol which is located south of the town Sežana.
+It has diameters of 230 m and shorter diameter 166 m.
+Average depth of the doline is 28 m with a volume of 0.42 Mm3.
+Its northern and north-eastern slopes are balanced.
+Other slopes are steep rocky walls with scree at the foot.
+The southern slope is dissected by an extensive gully, filled with loamy material and pieces of flowstone.
+The gully is a demolished cave passage on the slope of the collapse doline.
+Two ERI surveys were conducted in Sežanski dol.
+ERI profile 1 of the doline floor was conducted across the floor in the direction of 270°.
+It revealed that lower section of its bedrock slopes are covered by a thin layer of less resistant soil and weathered rock with resistivity values ranging between 200 and 1000 ohm-m.
+The infill of loamy material in the doline floor has resistivity values up to 150 ohm-m.
+Limestone bedrock underlying the slope material has resistivity values higher than 1000 ohm-m.
+In the central part of the doline the thickness of loamy material exceeds 20 m.
+ERI profile 2 was conducted perpendicular to the gully on the southern slope of the collapse doline.
+Direction of the profile is 270°.
+It showed that the gully, which was formed on a demolished cave passage fill, is inundated with loamy material with resistivity value lower than 150 ohm-m.
+Width of the loamy fill is about 25 m and depth at least 10 m.
+2.3 Collapse dolines north of the Divača fault line
+Almost half of the Karst plateau lies north of the Divača fault line.
+The bedrock in the area comprises mainly of thick bedded and massive Cretaceous limestone with chert.
+Hydrologically, it is the area of no significant subsurface flow as only smaller streams from north and northeast are sinking and flowing into direction of the Timava springs.
+The surface, largely planated on elevation 270 m, gradually lowers towards northwest to the elevation of about 170 m.
+Planated surface covered with numerous solution dolines, denuded caves, collapse dolines and dry valleys, is dissected with smaller ridges on the northern and on the eastern sides.
+On the surface there are 36 large collapse dolines with an overall volume of more than 45.6 Mm3.
+Their mean depth is about 32 m, mean diameter is 274 m.
+They cover an area of 2.3 km2.
+Every collapse doline in this area is significantly transformed since none of them has steep rocky slopes, and there is no other evidence of recent subsurface removal of material above active cave passages.
+All slopes are balanced and mostly covered by grikes.
+Occasionally even isolated dolines are present.
+The slopes of the collapse dolines have many erosion gullies on patches of loamy material from which material is being washed towards the doline floors.
+The floors of the dolines are usually large planated loamy surfaces.
+According to ERI surveys of the floors, loamy sediment is only a few metres thick and covers carbonate bedrock.
+Thus those collapse dolines are bowl shaped depressions in carbonate bedrock with loamy fills which are flattening the floors.
+Grain-size analysis of the sediment showed that the loam which fills floors of the collapse dolines comprises mainly clay and silt size particles.
+Petrological analysis of the sandy fraction in the sediment revealed that the loam contains minerals of flysch origin.
+Zajčnik is a typical example of this group of collapse dolines.
+It is located 5km southwest of the village štanjel.
+The doline has a rounded shape with a diameter of about 230 m and a depth of 21 m and a volume of 0.42 Mm3.
+All slopes of the collapse doline are fully balanced and partially covered with grikes.
+The floor of the doline is flat, about 40 m wide and filled with loamy material at an altitude of 222 m.
+ERI profile of the Zajčnik collapse doline was conducted across flattened floor in the direction 35°.
+It revealed that lower section of its bedrock slopes are covered by a thin layer of soil and weathered rock
+with resistivity values ranging between 200 and 1000 ohm-m.
+The infill of loamy material in the doline floor has resistivity values up to 150 ohm-m.
+Limestone bedrock underlying the slope material and parts of the loamy sediment floor infill has resistivity values higher than 1000 ohm-m.
+In the central part of the doline, the thickness of loamy material is about 15 m.
+2.4 Collapse dolines of Taborska brda and Gabrk
+Taborska brda and Gabrk are two ridges in the south eastern part of the Kras plateau.
+They extend towards northwest and are up to 200 m higher than the surrounding karst plateau.
+They consist of limestone and dolomite of Cretaceous age.
+Surface of the ridges is covered with conic hills and dissected by numerous dolines and some collapse dolines.
+On the ridges 9 collapse dolines are located.
+Their overall volume is about 3.2 Mm3, mean depth is about 28 m and mean diameter is 200 m.
+They cover an area of 0,2 km2.
+They have diverse morphology with usually balanced slopes with some erosion gullies.
+Floors of this group of collapse dolines are flat and filled with loamy sediment.
+Those collapse dolines are morphologically closest to collapse dolines north of the Divača fault zone.
+Grain-size analysis of the sediment revealed that the loam comprises mainly clay and silt and fine sand size particles.
+Petrological analysis of the sandy fraction in the sediment revealed that the loam contains particles of flysch origin.
+Fine grains of quartz particles of sandy fraction exhibit traces of wind abrasion on their surfaces.
+The most characteristic example of the collapse doline in the area is Dol Lipovnik, which is located almost on the top of the ridge of Taborska brda about 1.5 km southeast of Sežana.
+It has longer diameter 290 m, shorter diameter 250 m and average depth 43 m.
+Volume of the doline is 1.24 Mm3.
+The upper sections of the eastern and western slopes are steep rocky walls with scree at the foot.
+Other slopes are balanced and have some grikes.
+Floor of the doline is flattened at the elevation of 443 m.
+Diameter of the flattened floor is 140 m.
+ERI profile of the collapse doline Dol Lipovnik was conducted across flattened floor in the direction of 150°.
+It revealed that lower sections of its bedrock slopes are covered with a thin layer of soil and weathered rock with resistivity values ranging between 200 and 1000 ohm-m.
+The infill of loamy material in the doline floor has resistivity values up to 150 ohm-m.
+Limestone bedrock underlying the slope material and loamy sediment floor infill has resistivity values higher than 1000 ohm-m.
+Depth of the loamy fill is about 20 m.
+In the central part thickness of the loamy sediment locally exceeds 25 m.
+3 Conclusion
+The investigation of the collapse dolines on the Kras plateau presented in this article shows that the sediment in the floors is of various origin.
+Even though mechanisms of sedimentation are different, they result in the formation of relatively uniform flat floors.
+Loamy sediment completely inundates original collapse doline floors.
+ERI was used in order to establish sediment thickness on the doline floors.
+Measurements revealed that the resistivity value for carbonate bedrock exceeds 1000 ohm-m.
+Loamy material has resistivity values lower than 150 ohm-m.
+For soil, weathered bedrock and scree the resistivity values are between 250 and 1000 ohm-m.
+Due to the lack of moisture, active scree slopes without soil cover and vegetation have resistivity values higher than 1000 ohm-m.
+In all investigated collapse dolines we can clearly see the difference between slopes and floors.
+The slopes show highly resistive bedrock, which is limestone or scree, possibly covered with weathered bedrock or a layer of soil or loamy sediment which display lower resistivity values.
+On the floors there are thick infills of loamy sediment and patches of slope material at the foot of the active slopes.
+Loamy material filling floors of the dolines is flysch derived sediment which was accumulated by different mechanisms.
+On some collapse doline slopes are present traces of demolished cave passages filled with loamy sediment and flowstone.
+On those patches of impermeable sediment surface runoff of rainwater resulted in gulley formation.
+Below gulleys in the floors smaller alluvial fans are positioned.
+That mechanism of loamy sediment sedimentation took place in most of the collapse dolines, but represents main inflow of sediment in collapse dolines positioned north of the Divača fault zone and on the Sežansko-Nabrežinski ravnik.
+Another mechanism of accumulation of flysch derived sediment is active on Divača karst which is a ponor type of contact karst.
+Similar floor level elevations inside many collapse dolines suggest that the process that led to the sedimentation was active across a wide area at several collapse dolines at the time.
+The deposition of the loamy sediment fills inside the collapse dolines resulted from the River Reka oscillations and subsequent flooding inside the Divača karst.
+In the floors of the affected collapse dolines extended below the upper limits reached by the floodwaters supplying the loamy sediment flat floors were formed.
+Some fine grains of quartz particles from the collapse doline floors exhibit traces of wind abrasion on their surfaces.
+The area of the Kras plateau is regularly influenced by strong Bora winds from north-east direction, where flysch Vipava valley is positioned.
+Limited amount of sediment in the doline floors must have been deposited as aeolian sediment.

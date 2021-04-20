@@ -1,0 +1,8 @@
+Pomožne metode za ocenjevanje efektivne poroznosti ter reguliranje kraških vodonosnikov
+Regulacija kraškega vodonosnika obsega inženirsko posredovanje z namenom nadzorovati pretok voda ter upravljati vodne zaloge.
+Eden najpomembnejših pogojev za izvedljivost in uspešnost regulacijskih projektov je prava ocena efektivne poroznosti vodonosnika (uskladiščenje) ter akumuliranih zalog podzemne vode.
+Ta članek je osredotočen na nekaj določenih metod, ki lahko prispevajo k zanesljivi oceni obsega in prostornine efektivnega uskladiščenja v krasu: potapljaške raziskave jam, merjenje votlin s kamero, stohastične analize pretočnega režima in 3D modeliranje kraške notranjosti.
+Opisane so aplikacije teh metod na izbranih testnih območjih v črni gori, Alžiriji in Srbiji.
+Te metode so bile uporabljene kot del raziskovalnega programa, ki je bil izveden v zaledju največjega izvira karpatskega krasa v Srbiji, izvira Mlava.
+Rezultati dobljeni s stohastičnimi analizami pretočnega režima na izviru, potapljaškimi raziskavami izvirskega sifona in 3D modeliranjem za rekonstrukcijo mreže kanalov v kraški notranjosti, so še posebej pomembni.
+Ključne besede: regulacija kraškega vodonosnika, efektivna poroznost, jamarsko potapljanje, snemanje s kamero, stohastične analize, 3D kanalsko modeliranje.

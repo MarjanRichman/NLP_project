@@ -1,0 +1,18 @@
+Raziskovanje odnosov med kraško pokrajino in socialnimi funkcijami: Primer kraškega območja Gömör-Torna (Madžarska-Slovaška)
+Odnosi med človekom in okoljem imajo v primeru kraških okolij nekatere posebne značilnosti.
+Ta so običajno manj gosto naseljena predvsem zaradi hidroloških, topografskih in pedoloških posebnosti.
+Vendar pa je vpliv naravnih dejavnikov kraških pokrajin na družbeno-gospodarski razvoj redko proučevan, vplivi pa so običajno pojasnjeni v kvalitativnem smislu.
+Zato je cilj tega prispevka kot sodobnega pristopa znotraj geografskega posibilizma raziskati neposreden in posreden količinski vpliv obravnavanega naravnega okolja na družbeno-gospodarski razvoj z uporabo-GIS orodij in statističnih metod.
+Študija je bila opravljena na primeru kraškega območja Gömör-Torna (na Madžarskem znan kot kras Aggteleka oziroma na Slovaškem kot Slovaški kras).
+Razmerja med naravnimi dejavniki (nadmorska višina, naklon, relativna višina, oddaljenost od pomembnih rek) in pokrovnostjo tal, kot tudi med naravnimi dejavniki in socialnimi podatki (gostota prebivalstva, gostota poselitve, povprečno število prebivalcev v naselju, spremembe prebivalstva, gostota cestnega omrežja) smo proučevali z regresijsko analizo.
+Želeli smo ugotoviti, kako močno zgoraj navedeni naravni dejavniki vplivajo na socialne parametre.
+V nekaterih primerih (pokrovnost tal, cestno omrežje) je naklon najboljši pokazatelj, medtem ko v drugih primerih (gostota prebivalstva, dolgotrajne spremembe prebivalstva) najboljšo korelacijo zagotavlja oddaljenost od večje reke.
+Veliko kraških območij po vsem svetu se sooča z zmanjševanjem števila in s staranjem prebivalstva.
+Prav tak je primer kraškega območja Gömör-Torna, vendar pa ta primer sproža še številna druga zanimiva vprašanja.
+Kot prvo nas zanima, ali gre za trenuten proces ali za dolgoročno situacijo.
+Drugič, ali do demografskih sprememb prihaja zaradi razlik med kraškimi in sosednjimi nekraškimi območji.
+Tretjič, ali je proučevano kraško območje homogeno z družbenega vidika.
+Klastrska analiza, ki temelji na demografskih spremembah od leta 1828, je pomagala raziskati notranje spremembe sestave prebivalstva.
+Nekatere socialne značilnosti (na primer brezposelnost) kažejo relativno (ampak samo relativno) ugoden trenutni položaj krasa Aggtelek, medtem ko je Slovaški kras ekonomsko manj ugoden.
+Turizem, vezan na kras, je merljiv, vendar ima negativen trend in je precej lokaliziran okrog Aggteleka. človekov odnos je prav tako pomemben dejavnik, kar prav tako na kratko razpravljamo na podlagi polstrukturiranih intervjujev z lokalnim prebivalstvom.
+Ključne besede: odnosi človek-okolje, GIS, posibilizem, kras Aggtelek, Slovaški kras, turizem.

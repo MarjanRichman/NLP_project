@@ -1,0 +1,152 @@
+Abandoned water resources as potential sources of drinking water – the Korentan karst spring near Postojna
+ABSTRACT: In the area of the Orehek karst intrinsic vulnerability maps of groundwater and the Korentan karst spring, hazard maps and risk to contamination map have been made using Slovene Approach.
+For this purpose cartographic and other published data on geological, geomorphological, pedological, hydrological and meteorological characteristics have been gathered and extensive field inventory of the missing geomorphological and pedological characteristics has been made.
+Publically available land use and census data have been examined and checked in the field, manure heaps and illegal waste dumps have been mapped.
+The final thematic maps are excellent tools for national and local authorities when planning water protection and land use.
+The presented study in the catchment of an actual water source is an example of good practice of the revival of the in the past abandoned water sources that can in the future serve as a substitution water source in case of main water source overexploitation or contamination.
+KEY WORDS: drinking water, karst spring, vulnerability assessment, risk to contamination assessment, hazard mapping, water protection, water management.
+1 Introduction
+In Slovenia and worldwide a key issue in water supply is how to ensure adequate quality and quantity of drinking water.
+Due to rapid decreasing of water reserves in porous and other aquifers and their increasing pollution, the importance of karst water resources is growing (Bakalowicz 2005; Ford and Williams 2007; Kresic 2009; Guo, Yuan and Qin 2010; Daretal.
+2011).
+One of the advantages of bigger karst springs is sufficient amounts of water also during the time of low waters.
+On the other hand these springs have large catchments and their effective protection against pollution is a great challenge.
+As a result, water quality of these springs is often not good (Ravbar and Kovačič 2006).
+Since a modern water supply bases on permanent and abundant water resources, past water resources based on tapping of small amounts of surface, precipitation or groundwater, lost their importance.
+In case of pollution, an entire area depending on a single water resource remains without drinking water or its quality is limited and water supply of larger area is interrupted.
+A recent case was a relative long-term pollution of the Malenščica karst spring (Qs1971–2000 = 6.62 m3/s; catchment area 726 km2) at the end of 2011 and the beginning of 2012.
+The spring is captured for the water supply of Postojna, Pivka and partly Ilirska Bistrica municipalities (22,000 users).
+Contamination of the spring was a result of washing of the accumulated pollution out of the system in a time of increased discharges, following the first relatively intensive precipitation event after a long period without precipitation.
+The spring was polluted and inadequate for the water supply for 35 days (from December 20 to December 31, 2011; from January 12 to February 3, 2012), until additional cleaning of water was ensured at its water capture.
+Consequently safe water supply has been disturbed.
+With a linkup of different water resources into a common water supply system consequences of above described and similar events can be mitigated.
+In future plans for water supply numerous local water resources in connection to traditional forms of water supply should be included into a water supply system besides existing regional water resource.
+Therefore a holistic strategy of water supply on national level, comprising of protection and management of water resources and provisions at incidents should be elaborated.
+In the case of the Malenščica spring contamination, minimal needs for clean water can be ensured with an activation of reserve water resources.
+Korentan karst spring (the Orehek karst aquifer) was a part of Postojna water supply system in the past, but since 1972 it has been abandoned (Petrič and Šebela 2004; Kovačič and Petrič 2007).
+Regarding the quality and quantity of water in spring and its relative unburdened catchment, the spring can be used as a reserve water resource.
+The spring is protected on the basis of the local legislation (Ordinance on the protection of local water sources in the Postojna municipality 1998) but for the effective protection of the Orehek karst area water reserves quality, it is important to distinguish its most vulnerable parts, existing hazards and to propose most adequate land use in the area.
+Therefore, in a presented study we assessed intrinsic vulnerability of the Orehek karst groundwater and the Korentan spring, compiled an inventory of hazards and made a risk to contamination map for the Korentan spring.
+Results of this investigation present a good basis for preparing basic plans for prudent management of water resources in similar cases in the future, in order to, firstly, ensure to ourselves and future generations uninterrupted drinking water supply and secondly, to preserve adequate amounts of qualitative water reserves.
+2 Study area
+Orehek karst area is a well-defined shallow karst aquifer, situated northwest of the Pivka valley (Figure 1).
+It covers an area of around 10 km2.
+A slightly uplifted ridge reaches up to 725 m in height above the surrounding 545–600 m altitudes.
+The aquifer consists of an anticline of Cretaceous and Palaeocene limestones (Figure 2), which is in the southwest partially thrusted over Eocene flysch and encircled by it (Gospodarič, Habe and Habič 1970; Petrič and Šebela 2004).
+The Orehek karst is well-karstified with numerous dolines (461) and 70 caves registered in the Slovene Cave Cadastre (2012).
+The carbonate rocks in its northern part are covered with a thin layer of rendzina soil, and in the southern part with brown carbonate soil of various depths.
+The Orehek karst lies on the border between sub-continental and inland sub-Mediterranean climates; average annual precipitation is about 1,600 mm.
+The aquifer is additionally recharged by several small sinking rivers on the SW (e.g., Čermelice, Orehovške ponikve).
+On the northeastern margin of the aquifer very low permeable flysch acts as a hydrological barrier.
+Two temporal springs (Poliček and Mrzla jama) and a permanent Korentan spring drain the aquifer.
+Tracer test results proved the connection of the southern part of the aquifer and the Orehovške ponikve sinking stream with the Poliček spring at high waters.
+At low waters, the underground waters of the southern part of the aquifer flow towards the Pivka River situated further to the east (not shown on Figure 2) (Gospodarič, Habe and Habič 1970).
+The second tracer test performed at medium waters and proved the connection of Čermelice sinking rivers with the Korentan spring.
+The groundwater flow velocity was estimated to 25 m/h and the tracer recovery to 71% (Schulte 1994).
+The main outflow from the Orehek karst aquifer is the Korentan spring which is a typical karst spring, characterized by rapid, sharp responses to precipitation events.
+Spring discharges range from a few litres per second to about 3 m3/s with an average of 0.2 m3/s.
+Based on the results of tracer test and the water balance method, the extent of the spring's recharge area has been estimated and delineated to 6 km2 (including the non-karst part of the catchment) (Schulte 1994; Petrič and Šebela 2004; Jemcov and Petrič 2009; Kogovšek and Petrič 2012).
+3 Methodology
+To effectively protect the most sensitive areas of karst aquifers, several European countries use the concept of assessing vulnerability to determine water protection zones.
+Furthermore, assessment of contamination risk is increasingly important in land use planning (Zwahlen 2004; Ravbar 2007; Goldscheider 2010).
+The Slovene approach (Ravbar and Goldscheider 2007) most comprehensively follows these European guidelines and has therefore been applied in this study.
+The method includes the assessment of karst groundwater or water source vulnerability and degree of hazard.
+These two assessments form the basis for calculating the contamination risk to groundwater or water sources.
+The assessment of natural vulnerability includes the geological, geomorphological, pedological, hydrogeological, and meteorological characteristics of a karst system and is independent of the properties and behaviour of individual contaminants (Table 1, see also Figure 3).
+Relative to the purpose, two types of vulnerability assessment are available: for resources and for sources.
+Assessment of resource vulnerability includes parameters that control the flow of infiltrated water from the surface all the way to the water table.
+Here, relevant factors include the permeability and thickness of the soil and rock composing the unsaturated (vadose) zone and the concentration of runoff in the underground as influenced by topography, the vegetation cover, and the distribution and intensity of precipitation.
+The additional parameter, which considers the characteristics of water flow in the saturated (phreatic) zone, makes it possible to assess the vulnerability of a water source (Figure 3).
+Evaluation of the protective function of the layers overlying the groundwater of the Orehek karst aquifer has been based on information from geological and soil maps and verified in the field by means of geological and geomorphological mapping, as well as soil depth measurements using hand auger.
+Additional information has been obtained from topographic maps, digital orthographic photographs and the national cave database (SCC 2012).
+The thickness of the unsaturated zone has been determined by subtracting the grid of the estimated groundwater level from the grid of the digital elevation model (based on surroundings' springs and ponors altitudes).
+The infiltration conditions and concentration of flow have been evaluated on the basis of the digital elevation model, topographic maps and land use database of 2012 (Internet 1).
+Flow processes have been assessed by means of geological information and direct field observations.
+For the precipitation regime and recharge characteristics, the yearly and daily precipitation data (period 1961–2010) from the Postojna meteorological station have been used (EARS 2010).
+The characteristics of groundwater flow in the saturated zone of the karst aquifer have been assessed on the basis of geological and geomorphological settings, hydrograph analyses of the Korentan spring daily discharges in hydrological year 2004 (23.
+9. 2003–31.
+8. 2004) (Petrič and Šebela 2004), hydrological budgeting in the period 1961–2010 and interpretation of the tracer test (Schulte 1994).
+Additional information has been gained from the national cave database (SCC 2012).
+Vulnerability mapping is not always a sufficient criterion for proper land use planning, since it does not show the degree to which the aquifer is already under pressure.
+Therefore hazard assessment has been made in the frame of this study.
+The goal of hazard mapping is to identify and illustrate the locations and types of human activities that pose a threat to groundwater quality.
+The hazard evaluation considers the type, noxiousness and quantity of the contaminants, as well as the likelihood of a contaminant release (De Ketelaere etal.
+2004).
+The information for hazard mapping in the Orehek karst has been obtained from topographic maps, land use database (Internet 1) and direct field observations.
+In mapping contamination hazards, a specific value is assigned to each source of pollution relative to the qualitative comparison of potential damage (toxicity of substances, their solubility and mobility); comparison within one type of pollutant, however, requires a classification process relative to the level of toxicity of substances and time of exposure to pollution or relative to the quantity or size of the source of pollution.
+Another factor to consider is probability of pollution as influenced by technical status, maintenance level, safety conditions, and other circumstances.
+Locations and properties of actual and potential hazards were checked and gathered with fieldwork.
+When Korentan vulnerability map has been complemented by hazard map, it has been possible to assess the source's risk of contamination.
+Thus it has been possible to make a comprehensive assessment of existing human impacts and identify areas that endanger the quality of the potential water source near Postojna at most.
+For data handling, evaluation and graphical processing ArcGIS 9.3 has been used.
+4 Results
+4.1 Vulnerability map
+The resource vulnerability map, aiming to protect the whole groundwater body (Figure 4), shows that only 4.4% of the catchment is extremely vulnerable.
+These areas correspond to caves, bare areas (with no soil cover), such as excavation sites and roads, and to sinking rivers, swallow holes and their surroundings.
+High vulnerability embraces most of the study area (81.3%).
+Moderate vulnerability is assigned to 12.9%,
+i.e. to dolines and some parts of the sinking rivers catchments.
+Dolines are classified as less vulnerable than the rest of the karst area due to considerable thickness of protective layer on their bottoms (i.e. >1 m of soil).
+Areas of low vulnerability extend over 1.4% of the area in the remote parts of the sinking rivers catchments, with the impermeable grounding.
+Vulnerability of non-karst area depends mainly on vegetation cover and slope inclination.
+For the source vulnerability mapping (aiming to protect a particular spring, i.e. the Korentan spring) the Orehek karst aquifer has been subdivided into an inner and an outer zone.
+The zonation has been made on bases of the geological and geomorphological settings, tracer tests results and the Korentan springs' hydrodynamic behaviour (see references above).
+The inner zone is the area that always contributes to the investigated spring and is directly connected to and drained by the spring.
+The outer zone comprises drainage areas in the rest of the aquifer that is not drained by the investigated spring (see Figure 2).
+Vulnerability degrees in the outer zone therefore decrease in comparison to areas of the inner zone.
+In the source vulnerability map (Figure 5) highly vulnerable areas occupy 1.6% of the study area and correspond to caves, excavation site and roads in the Korentan catchment, and to sinking Čermelice river, swallow holes and their surroundings.
+Moderate vulnerability is assigned to 54.2% of the studied area, i.e. to the major part of the Korentan catchment and to bare areas, caves, sinking rivers, swallow holes and their surroundings outside the Korentan catchment.
+Areas of low vulnerability extend over 44.2% of the area and cover dolines in the Korentan catchment and majority of the Orehek karst outside the Korentan catchment.
+The source vulnerability map can be used as a basis for the delineation of source protection zones.
+4.2 Hazard map
+Major part, 92% of the Orehek karst area is covered by forest (mainly beech).
+Agricultural activity is low and mostly limited to vicinity of settlements Prestranek, Hruševje and Orehek, which lay on the border of the Orehek karst aquifer.
+In the vicinity of the settlements a few fields and extensive orchards can be found.
+Meadows and pastures cover about 6% of the area (Internet 1).
+Only a few residential houses in Hruševje and Prestranek fall within the borders of the Orehek karst aquifer and approximately a half of the Orehek is also located within the borders of the aquifer.
+According to the 2011 census around 150 people lived in the area (Internet 2).
+Settlements are without sewer systems.
+Only local, macadam roads mainly used by farmers and foresters cross the aquifer, traffic flow is negligible.
+In terms of water protection, low agriculture activity and dense forest cover are very favourable.
+However, some actual and potential point and area sources of pollution exist over the aquifer.
+In the vicinity of Hruševje there is an abandoned quarry, which is occasionally used as a waste dump (organic waste).
+In Orehek we found two open manure heaps, another big and unprotected manure heap is located near a farm, 100 m ahead of the Čermelice ponor.
+Leachate from the manure heap directly drains in a small ditch into the ponor and poses a serious threat to the quality of the Korentan spring.
+According to the field survey conducted in 2011, nine illegal waste dumps threaten the quality of the Orehek karst aquifer.
+Three of them are located in dolines (no.
+1, 2 and 8 on Figure 6), two of them in potholes (no.
+4 and 7) and one of them in Orehovške ponikve ponor cave (no.
+9).
+The last one poses a serious threat to the quality of the Poliček spring, but according to the known facts, not to the Korentan spring.
+The number of illegal waste dumps decreased in last years; in 2002 we mapped 34 of them.
+Majority of then active dumps are now sanitized or abandoned.
+Unclassified hazard map (Figure 6) shows the described actual and potential sources of contamination, whereas the classified hazard map (Figure 7) depicts the possible impact of human activities to the waters.
+Figure 7 shows the hazards found in the test site are mainly classified as low (2.3%) or very low (0.4%).
+Settlements without sewer systems, roads, abandoned quarry, illegal waste dumps and manure heaps are classified as low hazards, fields and orchards as very low hazards.
+In majority of the area, 97.3%, no hazards have been identified.
+4.3 Risk to contamination map
+The risk to contamination is obtained by combining the vulnerability and the hazard assessment.
+Thus it is possible to make a comprehensive assessment of existing human impacts and identify areas with inadequate management, reorganize land use and apply better practice in future planning, create a foundation for a variety of environmental impact assessments, and facilitate the predictions of consequences and damage (ecological and material) of a variety of pollution events.
+In the studied area, in general the risk degree strongly depends on the hazard level and its distribution.
+Most of the catchment is exposed to low risk (98.5%); only urban areas, roads, dumps and excavation sites represent medium degree of contamination risk that occupy 1.5% of the study area in total (Figure 8).
+5 Conclusion
+This study shows how karst water sources of an individual area should be evaluated in terms of their potential use as a reserve water source in cases of contamination of regional water source.
+With the use of cartographic and other published material and by conducting field work, intrinsic vulnerability of karst water resources, evaluation of hazards and risk to contamination assessment should be made, and result shown on intelligible thematic maps.
+The intrinsic vulnerability assessment can be transformed into water protection zones.
+The identification of the most vulnerable areas and areas with the highest risk of contamination allows the optimization of water protection zones, appropriate and prudent management of water sources, and a foundation for planning the monitoring of water quality.
+Hazard map make it possible to identify land mismanagement and are together with risk map used for land use planning.
+In the study area, the strictest protection measures should apply to the most vulnerable areas, and the most harmful human activities should be properly sanitized or prohibited.
+The concept of assessing vulnerability and risk offers a balance between protection on the one hand and spatial planning and economic interests on the other.
+It prevents adding potential sources of pollution in areas where pollution already reaches or even exceeds natural self-cleaning capacities and at the same time shows areas of the highest risk level that call for immediate action and rehabilitation.
+Studies as is the one presented here therefore provide a useful decision-making basis for national and local authorities responsible for spatial planning and land use.
+The results of the survey in the Orehek area aquifer revealed that some parts (sinking rivers, excavation sites) demonstrate high intrinsic vulnerability and should be protected.
+On the other hand, a small number of actual and potential hazards in the catchment do not pose a serious risk to contamination of the Korentan spring.
+However, illegal dumps should be removed and sanitized, and manure heaps and sewer systems settlements regulated.
+On bases of the currently established water protection zones (Habič etal.
+1987; Odlok o varstvu krajevnih vodnih virov v Občini Postojna 1998) the area of the strictest protection extends over the springhead belt around the capture, while the rest of the Orehek karst together with the sinking rivers catchments (i.e. Outer zone) belong to the Inner protection zone with a strict protection regime.
+According to the source vulnerability map (Figure 5) the strictest protection regime needs to be introduced to areas of caves, excavation site and roads in the Korentan catchment, and to sinking Čermelice river, swallow holes and their surroundings.
+Major part of the Korentan catchment, including bare areas, caves, sinking rivers, swallow holes and their surroundings outside the Korentan catchment would belong to the Inner protection zone.
+Areas of dolines in the Korentan catchment and majority of the Orehek karst outside the Korentan catchment would belong to Outer protection zone.
+Korentan spring, which had once been used for drinking water supply, would due to its satisfactory quantities in major part of the year be sensible to include into the water supply system of the Postojna municipality as a reserve water resource.
+However, suitable protection and proper land use planning should previously be ensured.
+Using the same method, numerous other small karst water sources should be revived and put into service of public drinking water supply systems in Slovenia.

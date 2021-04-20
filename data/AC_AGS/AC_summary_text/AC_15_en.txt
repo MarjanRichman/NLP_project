@@ -1,0 +1,16 @@
+A framework for assessing the role of karst conduit morphology, hydrology, and evolution in the transport and storage of carbon and associated sediments
+Karst aquifers and conduits form by dissolution of carbonate minerals and the slow release of inorganic carbon to the surface environment.
+As conduits evolve in size, morphology, and position within the aquifer, their function and capacity change relative to the storage and transport of inorganic and organic carbon as sediment.
+Conduits serve mostly as transport mechanisms in relation to sediments.
+Quantified data are sparse, but for conduits to function effectively there must be at least equilibrium in the amount of sediment entering and exiting the aquifer.
+If sediment discharge exceeds input, little sediment will remain underground.
+When natural declines in base level cease removing sediments and only deposit calcite speleothems, these materials are stored until the rock mass is denuded.
+While sediment storage is mostly transient in hydrologically active conduits, relative differences occur.
+Aquifers with conduits developed at multiple levels or as floodwater mazes store proportionately greater volumes of sediment.
+Hypogenic systems should store greater volumes of sediment than epigenic aquifers because they mostly discharge a dissolved load as opposed to both dissolved and suspended clastic loads.
+However, some hypogenic aquifers are diffusely recharged and receive and store little sediment from the surface.
+The global volume of sediment and organic carbon stored in karst aquifers is estimated in this study to be on the order of 2x104 km3and 2x102 km3, respectively.
+The amount of organic carbon stored in paleokarst is not estimated, but available data indicate it is substantially greater than that stored in modern karst aquifers.
+Development of such data may suggest that paleokarst petroleum reservoirs might serve as efficient carbon sinks for global carbon sequestration.
+Hydrocarbon-depleted paleokarst reservoirs should provide substantially more storage per injection well than sequestration in non-paleokarstic rocks.
+Keywords: Sediment, carbon, paleokarst, conduit morphology, karst hydrology, sequestration.

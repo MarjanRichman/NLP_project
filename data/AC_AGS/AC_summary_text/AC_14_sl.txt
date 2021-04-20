@@ -1,0 +1,10 @@
+Študij značilnosti vadoznega toka in njegovega vpliva na delovanje kraških izvirov: primer kraškega sistema pri Postojni, Slovenija
+V treh izbranih curkih v Postojnski jami v JZ Sloveniji in v bližnjem izviru Korentan, ki generalno gledano pripada istemu kraškemu vodonosniku, smo v 15-minutnih intervalih merili pretok in specifično električno prevodnost.
+Istočasno so bili merjeni meteorološki parametri v Postojni in ocenjene vrednosti efektivne infiltracije.
+Na osnovi primerjave pridobljenih podatkov za obdobje hidrološkega leta 2003–2004 smo proučevali vpliv vadozne cone na značilnosti toka podzemne vode v krasu in na delovanje kraškega izvira.
+Najvišji pretoki izvira Korentan so posledica pretakanja vode v vadozni coni skozi sistem razpok z različno prepustnostjo, še posebej pomemben pa je prispevek vode iz con zelo slabe prepustnosti.
+Ena najpomembnejših ugotovitev je, da je v razmerah, ko je vadozna cona dobro namočena, mreža drobnih razpok hidravlično povezana.
+To omogoča celostno reakcijo sistema na tlačni pulz, ki ga ustvarijo infiltrirane padavine.
+Po drugi strani pa je podrobna primerjava efektivne infiltracije in pretokov pokazala, da se v sušnih obdobjih z nizko stopnjo zasičenosti vadozne cone pretežni delež infiltriranih padavin uskladišči v sistemu in samo najbolj prepustne razpoke omogočajo hiter prenos impulza napajanja proti izviru.
+Poleg tega smo s primerjavo merjenih pretokov in specifične električne prevodnosti analizirali razmere dejanskega masnega toka vode skozi kraški sistem.
+Ključne besede: kraški vodonosnik, vadozna cona, Postojnska jama, izvir Korentan, Slovenija.
