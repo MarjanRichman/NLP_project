@@ -1,0 +1,39 @@
+!onmt_train -config conf_en_sl_spec.yaml -train_from data/assistant_data/general-model-mixed-vocab/model_step_100000.pt
+
+GPU 0: Tesla T4 (UUID: GPU-8b3780d0-a423-2fd9-c256-d361d8d596c2)
+
+
+# toy_en_de.yaml
+
+## Where the samples will be written
+save_data: data/special/special-model-mixed-vocab/res
+## Where the vocab(s) will be written
+src_vocab: data/special/vocab-special-TC3/res.vocab.src
+tgt_vocab: data/special/vocab-special-TC3/res.vocab.tgt
+# Prevent overwriting existing files in the folder
+overwrite: False
+
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: data/special/special-corr-train.en
+        path_tgt: data/special/special-corr-train.sl
+    valid:
+        path_src: data/special/special-corr-val.en
+        path_tgt: data/special/special-corr-val.sl
+
+
+# Vocabulary files that were just created
+src_vocab: data/special/vocab-special-TC3/res.vocab.src
+tgt_vocab: data/special/vocab-special-TC3/res.vocab.tgt
+
+# Train on a single GPU
+world_size: 1
+gpu_ranks: [0]
+
+# Where to save the checkpoints
+save_model: data/special/special-model-mixed-vocab/model
+save_checkpoint_steps: 5000
+report_every: 100
+train_steps: 200000
+valid_steps: 5000
