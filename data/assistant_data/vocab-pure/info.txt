@@ -1,0 +1,10 @@
+onmt_build_vocab -config conf_en_sl.yaml -n_sample -1
+
+5min 0sec
+
+Corpus corpus_1's weight should be given. We default it to 1 for you.
+[2021-05-07 21:22:57,104 INFO] Counter vocab from -1 samples.
+[2021-05-07 21:22:57,104 INFO] n_sample=-1: Build vocab on full datasets.
+[2021-05-07 21:22:57,111 INFO] corpus_1's transforms: TransformPipe()
+[2021-05-07 21:27:54,441 INFO] Counters src:850245
+[2021-05-07 21:27:54,441 INFO] Counters tgt:1369057
