@@ -30,5 +30,5 @@ gpu_ranks: [0]
 save_model: data/special/special-model-mixed-vocab/model
 save_checkpoint_steps: 5000
 report_every: 100
-train_steps: 200000
-valid_steps: 5000
+train_steps: 15000
+valid_steps: 2500

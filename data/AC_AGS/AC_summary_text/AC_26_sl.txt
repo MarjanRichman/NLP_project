@@ -1,7 +1,0 @@
-Tridimenzionalni numerični model nastanka udornic
-V članku predstavimo tridimenzionalni numerični model razvoja kraških udornic.
-Rezultati potrjujejo dosedanja spoznanja o pogojih, potrebnih za rast udornic.
-Pokažemo, da udornice nastajajo kot del razvoja kraškega vodonosnika nad podzemnimi rekami, ki tečejo skozi aktivne jamske sisteme oz. mehansko nestabilna območja.
-Mehanizem nastanka ene same izolirane udornice lahko pojasnimo z dvodimenzionalnim numeričnim modelom z dovolj gosto mrežo.
-Za študij prostorskega razvoja in porazdelitve sistema udornic potrebujemo 3D numerični model, ki ga lahko ob podrobnem poznavanju hidrogeoloških razmer uporabimo tudi za napovedovanje in interpretacijo pojavljanja udornic na nekem kraškem območju.
-Ključne besede: Tridimenzionalni model, kras, udornice, apnenec.

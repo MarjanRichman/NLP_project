@@ -1,0 +1,34 @@
+# toy_en_de.yaml
+
+## Where the samples will be written
+save_data: data/special/special-model-mixed-vocab/res_sl_en_
+## Where the vocab(s) will be written
+src_vocab: data/special/vocab-special-TC3/res.vocab.tgt
+tgt_vocab: data/special/vocab-special-TC3/res.vocab.src
+# Prevent overwriting existing files in the folder
+overwrite: False
+
+# Corpus opts:
+data:
+    corpus_1:
+        path_src: data/special/special-corr-train.sl
+        path_tgt: data/special/special-corr-train.en
+    valid:
+        path_src: data/special/special-corr-val.sl
+        path_tgt: data/special/special-corr-val.en
+
+
+# Vocabulary files that were just created
+src_vocab: data/special/vocab-special-TC3/res.vocab.tgt
+tgt_vocab: data/special/vocab-special-TC3/res.vocab.src
+
+# Train on a single GPU
+world_size: 1
+gpu_ranks: [0]
+
+# Where to save the checkpoints
+save_model: data/special/special-model-mixed-vocab/model_sl_en_
+save_checkpoint_steps: 5000
+report_every: 100
+train_steps: 15000
+valid_steps: 2500

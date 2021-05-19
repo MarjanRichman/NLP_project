@@ -1,6 +1,0 @@
-Partial pressures of CO2 in epikarstic zone deduced from hydrogeochemistry of permanent drips, the Moravian Karst, Czech Republic
-Permanent drips from straw stalactites of selected caves of the Moravian Karst were studied during one-year period.
-A hypothetical partial pressure of CO2 that has participated in limestone dissolution, PCO2(H)=10-1.53±0.04, was calculated from the dripwater chemistry.
-The value significantly exceeds the partial pressures generally measured in relevant shallow karst soils, PCO2(soil)=10-2.72±0.02.
-This finding may have important implications for karst/cave conservation and paleoenvironmental reconstructions.
-Keywords: cave, carbon dioxide, dripwater, hydrogeochemistry, hypothetical partial pressure, karst processes, karstification model.

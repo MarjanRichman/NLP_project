@@ -1,9 +1,0 @@
-Interpretacija delovanja vodonosnika visokega krasa z uporabo modela KARSYS: primer Trnovsko-Banjške planote (Slovenija)
-Visoki kras Trnovsko­Banjške planote predstavlja enega najpomembnejših vodonosnih sistemov v Sloveniji.
-Skoraj vsi večji izviri na območju so zajeti za vodooskrbo, zato je učinkovito in trajnostno upravljanje vodonosnika strateško pomembno tako z vidika vodooskrbe, kot tudi z ekonomskega vidika.
-V zadnjih desetletjih je bilo na območju narejenih veliko hidrogeoloških študij in opazovanj. še vedno pa manjka sinteza teh rezultatov, ki bi nazorno prikazala značilnosti in dinamiko vodonosnika.
-To vrzel do v dobri meri zapolnjujejo rezultati predstavljeni v tem članku.
-Uporabili smo model KARSYS, ki so ga sicer prvi razvili in uporabili v Švici in z njim ocenili zaloge podzemne vode in smeri glavnih tokov med območji napajanja in izviri.
-Z modelom smo določili tudi meje napajalnih zaledij glavnih izvirov.
-Rezultati bodo omogočili še učinkovitejše upravljanje s kraškimi vodami na tem območju.
-Ključne besede: KARSYS, kraški vodonosnik, tok podzemne vode, skladiščenje, določitev meja napajalnih zaledij, upravljanje z vodami.

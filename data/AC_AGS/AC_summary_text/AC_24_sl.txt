@@ -1,9 +1,0 @@
-Hidrodinamično modeliranje zapletenega kraško-aluvialnega vodonosnika: študija na primeru vodnega vira Prijedor, Republika Srbska v Bosni in Hercegovini
-Srednje triasni zakraseli apnenec in dolomit tvorijo kraški vodonosnik v dolini reke Sane blizu mesta Prijedor.
-Kot posledica intenzivnih tektonskih premikov, se karbonatne kamnine nahajajo večinoma pod nivojem reke in so prekriti z mlajšimi plastmi pliocenske starosti in aluvialnimi naplavinami.
-Glavni vir napajanja podzemne vode je v precejšnjem delu vodonosnika infiltracija skozi naplavino iz reke Sane.
-Glavni cilj pričujoče raziskave je bila ocena hidravličnih odnosov med aluvialnim, pliocenskim in kraškim vodonosnikom, da bi bolje razumeli potencial kraškega vodonosnika za vodooskrbo. čeprav hidro­ dinamično modeliranje kraških vodonosnikov ni zelo pogosto, je razviti model prinesel pomembne in koristne informacije o vodni bilanci podtalnice in o vrsti napajanja.
-Vpliv prelomov in prostorske anizotropije kraškega vodonosnika smo simulirali na hidrodinamičnem modelu s spreminjanjem prepustnosti na x in y oseh Kartezijanskega koordinatnega sistema z ozirom na prelom, glavno pot kroženja podzemne vode.
-Reprezentativne vrednosti hidravlične prevodnosti so Kx = 2.3·10­3 m/s in Ky = 5.0·10-3 m/s za prelome smeri SZ – JV, ter Kx = 2.5·10-3 m/s in Ky 1.2·10-3 m/s za prelome smeri JZ – SV.
-Raziskava je pokazala, da se kraški vodonosnik lahko izrablja na dolgi rok pri maksimalnih testiranih zmogljivostih in da trenutno izkoriščanje podzemne vode ni ogrožena niti v sušnih obdobjih, ko je napajanje vodonosnika zgolj iz reke Sane.
-Ključne besede: triasne karbonatne kamnine, kraški vodonosnik, prostorsko anizotropija, hidrodinamični model, kraško­aluvialni vodonosnik, vodna bilanca podtalnice.
