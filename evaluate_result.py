@@ -268,7 +268,7 @@ print("METEOR: ", statistics.mean(meteor_scores))
 # RIBES: Error with RIBES division by zero
 # METEOR:  0.38298733381991457
 
-# Specialised model 100k, special data
+# Specialised model 130k, special data
 with open('data/special/translation/en_sl/output-en_sl130k-corr.txt', 'r', encoding="utf8") as myfile3:
     en_output0 = myfile3.readlines()
 
