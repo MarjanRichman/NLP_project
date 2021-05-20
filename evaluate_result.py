@@ -268,7 +268,7 @@ print("METEOR: ", statistics.mean(meteor_scores))
 # RIBES: Error with RIBES division by zero
 # METEOR:  0.38298733381991457
 
-# Specialised model 100k, special data
+# Specialised model 130k, special data
 with open('data/special/translation/en_sl/output-en_sl130k-corr.txt', 'r', encoding="utf8") as myfile3:
     en_output0 = myfile3.readlines()
 
@@ -302,3 +302,42 @@ print("METEOR: ", statistics.mean(meteor_scores))
 # NIST:  5.606371857492066
 # RIBES: Error with RIBES division by zero
 # METEOR:  0.4454680595010666
+
+
+# Assistant DATA, General model, only en_sl
+#
+
+# General model 100k, assistant data
+with open('data/assistant_data/translation/en_sl/output-en_sl100k-corr.txt', 'r', encoding="utf8") as myfile:
+    output0 = myfile.readlines()
+
+output = [x.split(' ') for x in output0]
+
+with open('data/assistant_data/asistent_testset-corr.sl', 'r', encoding="utf8") as myfile2:
+    slo_testset0 = myfile2.readlines()
+slo_testset = [x.split(' ') for x in slo_testset0]
+slo_testset2 = [[x] for x in slo_testset]
+
+print("EN-SL Assistant data, General model 100k, vocab 50k")
+print("BLEU: ", corpus_bleu(slo_testset2, output))
+print("CHRF: ", corpus_chrf(slo_testset, output))
+print("GLEU: ", corpus_gleu(slo_testset2, output))
+print("NIST: ", corpus_nist(slo_testset2, output))
+try:
+    print("RIBES: ", corpus_ribes(slo_testset2, output))
+except Exception as err:
+    print("Error with RIBES", err)
+
+# AVG METEOR SCORE
+meteor_scores = []
+for i in range(len(slo_testset)):
+    meteor_scores.append(meteor_score([slo_testset0[i]], output0[i]))
+
+print("METEOR: ", statistics.mean(meteor_scores))
+
+# BLEU:  0.18500353793690474
+# CHRF:  0.39178751258782574
+# GLEU:  0.21527002579006121
+# NIST:  5.265683801050978
+# RIBES: Error with RIBES division by zero
+# METEOR:  0.40556545392160126
