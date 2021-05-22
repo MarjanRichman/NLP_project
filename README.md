@@ -12,3 +12,5 @@ General corpus TC3 is located on the WeTransfer file-sharing website.
 Slovene version TC3: https://we.tl/t-j6cDUvUWRH
 
 English version TC3: https://we.tl/t-AeQleZyGvJ
+
+Best-scoring model: https://we.tl/t-3YFosWkfPY
