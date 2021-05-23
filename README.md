@@ -1,7 +1,9 @@
 This is a machine translation model specialized for translating pharmaceutical texts from English to Slovene and vice-versa
 
 The machine translation model was trained using OpenNMT-py neural framework on Google Colab
+
 OpenNMT-py requires torch 1.6.0
+
 
 Link to the Google Colab notebook (instructions to run it are written in each cell as comments):
 https://colab.research.google.com/drive/1oPaRt08edeU2qDJ0PUARPRn2vCao_LWq?usp=sharing
